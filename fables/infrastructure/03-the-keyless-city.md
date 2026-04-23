@@ -136,6 +136,6 @@ tags: [account-abstraction, erc-4337, smart-contract-wallet, eoa, infrastructure
 
 - wiki-web3 概念原文：理解账户抽象 #3 - 钱包创建
 - [ERC-4337: Account Abstraction Using Alt Mempool](https://eips.ethereum.org/EIPS/eip-4337)
-- [Alchemy: Account Abstraction Overview](https://www.alchemy.com/overviews/account-abstraction)
-- [Vitalik: Trilemma of Account Abstraction](https://vitalik.ca/general/2023/06/09/three_transitions.html)
-- [Bundler Network & Decentralization](https://docs.stackup.sh/docs/introduction)
+- [Alchemy: Account Abstraction Overview](https://ethereum.org/en/roadmap/account-abstraction/)
+- [Vitalik: Trilemma of Account Abstraction](https://vitalik.eth.limo/general/2023/06/09/three_transitions.html)
+- [Bundler Network & Decentralization](https://docs.stackup.fi/docs/introduction)

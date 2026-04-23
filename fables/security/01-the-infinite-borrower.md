@@ -98,6 +98,6 @@ tags: [security, reentrancy, solidity, dao]
 ### 延伸阅读
 
 - wiki-web3 概念原文：Solidity 重入攻击与防御
-- [Consensys: Smart Contract Best Practices — Reentrancy](https://consensys.github.io/smart-contract-best-practices/attacks/reentrancy/)
-- [OpenZeppelin: ReentrancyGuard](https://docs.openzeppelin.com/contracts/5.x/api/security#ReentrancyGuard)
-- [The DAO 事件分析](https://hackingdistributed.com/2016/06/18/analysis-of-the-dao-exploit/)
+- [Consensys: Smart Contract Best Practices — Reentrancy](https://github.com/Consensys/smart-contract-best-practices)
+- [OpenZeppelin: ReentrancyGuard](https://docs.openzeppelin.com/contracts/4.x/api/security#ReentrancyGuard)
+- [The DAO 事件分析](https://blog.ethereum.org/2016/06/17/critical-update-re-dao-vulnerability)

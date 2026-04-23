@@ -110,4 +110,4 @@ The "assembly line workshop" metaphor for Solana offers several intuitive advant
 - [Solana Docs: Architecture](https://docs.solana.com/cluster/overview)
 - [Proof of History Explained](https://medium.com/solana-labs/proof-of-history-explained-9e3bde0877e2)
 - [Sealevel: Parallel Processing Thousands of Smart Contracts](https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-25eacf4bb6f7)
-- [Solana Network Outages Analysis](https://decrypt.co/resources/solana-network-outages)
+- [Solana Network Outages Analysis](https://coinmarketcap.com/academy/article/solana-outages-everything-you-need-to-know)

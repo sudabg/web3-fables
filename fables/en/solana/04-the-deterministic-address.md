@@ -132,5 +132,5 @@ The "deterministic address" metaphor for PDA offers several intuitive advantages
 
 - wiki-web3: Solana PDA Program Derived Address Deep Dive
 - [Solana Docs: Program Derived Addresses](https://docs.solana.com/developing/programming-model/calling-between-programs#program-derived-addresses)
-- [Anchor Framework: PDA](https://book.anchor-lang.com/anchor_in_depth/PDAs.html)
-- [Solana PDA Deep Dive](https://solanacookbook.com/core-concepts/pdas.html)
+- [Anchor Framework: PDA](https://www.anchor-lang.com/docs/features/pda)
+- [Solana PDA Deep Dive](https://solana.com/developers/cookbook/accounts/pda)

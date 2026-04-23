@@ -117,6 +117,6 @@ The "anchored vessel" metaphor maps the evolution through generations of failure
 ### Further Reading
 
 - wiki-web3: How Modern Stablecoin FX 2.0 Is Built
-- [MakerDAO: How DAI Works](https://makerdao.com/en/whitepaper/)
-- [Terra/Luna Collapse Analysis](https://www.coindesk.com/learn/what-was-terra-luna-and-ust-and-why-did-it-collapse/)
-- [FX 2.0 Stablecoin Design](https://fxprotocol.gitbook.io/fx-protocol/)
+- [MakerDAO: How DAI Works](https://docs.makerdao.com/)
+- [Terra/Luna Collapse Analysis](https://academy.binance.com/en/articles/the-history-of-the-terra-luna-collapse)
+- [FX 2.0 Stablecoin Design](https://fxprotocol.gitbook.io/fx-protocol)

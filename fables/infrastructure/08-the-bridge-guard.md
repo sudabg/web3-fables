@@ -127,6 +127,6 @@ tags: [bridge, cross-chain, lock-and-mint, relay, validator, wrapped-asset]
 - wiki-web3 概念原文：跨链桥原理解析
 - [Ethereum.org: Bridges](https://ethereum.org/en/developers/docs/bridges/)
 - [Blockchain Bridges: Building Networks of Cryptonetworks](https://medium.com/1kxnetwork/blockchain-bridges-5db6af5d27b2)
-- [Ronin Bridge Hack Analysis](https://rekt.news/ronin-rekt/)
+- [Ronin Bridge Hack Analysis](https://rekt.news/ronin-network-rekt/)
 - [LayerZero: Omnichain Interoperability](https://layerzero.network/)
 - [ZK Bridges: Succinct Labs](https://succinct.xyz/)

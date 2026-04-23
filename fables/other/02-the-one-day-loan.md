@@ -125,6 +125,6 @@ tags: [flash-loan, uncollateralized, atomic, arbitrage, liquidation, attack-vect
 
 - wiki-web3 概念原文：闪电贷详解
 - [Aave Flash Loans](https://docs.aave.com/developers/guides/flash-loans)
-- [Flash Loan Attacks: Analysis](https://insights.glassnode.com/defi-flash-loan-attacks/)
+- [Flash Loan Attacks: Analysis](https://chain.link/education-hub/flash-loans)
 - [The Biggest Flash Loan Attacks in DeFi History](https://rekt.news/leaderboard/)
-- [How to Protect Against Flash Loan Attacks](https://blog.openzeppelin.com/defending-against-flash-loan-attacks/)
+- [How to Protect Against Flash Loan Attacks](https://chain.link/education-hub/flash-loans)

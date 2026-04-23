@@ -134,7 +134,7 @@ The "weighted democracy" metaphor for token voting offers several intuitive adva
 ### Further Reading
 
 - wiki-web3: Token Voting Governance
-- [Vitalik: Moving Beyond Coin Voting Governance](https://vitalik.ca/general/2021/08/16/voting3.html)
+- [Vitalik: Moving Beyond Coin Voting Governance](https://vitalik.eth.limo/general/2021/08/16/voting3.html)
 - [Quadratic Voting: How Mechanism Design Can Radicalize Democracy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2003531)
 - [Beanstalk Flash Loan Governance Attack](https://rekt.news/beanstalk-rekt/)
 - [Compound Governance](https://compound.finance/governance)

@@ -124,4 +124,4 @@ The "timed safe" metaphor for Solana accounts offers several intuitive advantage
 - wiki-web3: Solana Account Model and Rent Mechanism
 - [Solana Docs: Accounts](https://docs.solana.com/developing/programming-model/accounts)
 - [Solana Rent Economics](https://docs.solana.com/implemented-proposals/rent)
-- [Anatomy of a Solana Account](https://2501babe.github.io/posts/solana-account.html)
+- [Solana Docs: Accounts](https://solana.com/docs/core/accounts)

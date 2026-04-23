@@ -122,4 +122,4 @@ tags: [security, oracle, price-manipulation, flash-loan, data-feed]
 - [Chainlink: Price Feeds & Oracle Security](https://docs.chain.link/docs/using-chainlink-reference-contracts/)
 - [Uniswap V3: Oracle Integration](https://docs.uniswap.org/protocol/concepts/V3-overview/oracle)
 - [OpenZeppelin: Oracle Manipulation](https://blog.openzeppelin.com/secure-smart-contract-guidelines-the-dangers-of-price-oracles/)
-- [bZx Hack Analysis (PeckShield)](https://peckshield.com/2020/02/15/bzx/)
+- [bZx Hack Analysis (PeckShield)](https://rekt.news/bzx-rekt/)

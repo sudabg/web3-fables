@@ -118,5 +118,5 @@ tags: [cryptography, zk-snark, zero-knowledge, proof, privacy, scalability]
 - wiki-web3 概念原文：ZK-SNARKs 简介
 - [Zero-Knowledge Proofs: An Illustrated Primer](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/)
 - [zk-SNARKs: Under the Hood](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6)
-- [ZK-Rollup FAQ](https://vitalik.ca/general/2021/01/05/rollup.html)
-- [The Cave of Zero Knowledge (Original Paper)](https://chaum.com/publications/Proofs_that_Yield_Nothing.pdf)
+- [ZK-Rollup FAQ](https://vitalik.eth.limo/general/2021/01/05/rollup.html)
+- [The Cave of Zero Knowledge (Original Paper)](https://dl.acm.org/doi/10.1145/62282.62293)

@@ -60,6 +60,6 @@ The BEC token incident is particularly instructive because the vulnerable code w
 ### Further Reading
 
 - wiki-web3: The One-Line Bug That Evaporated $28 Billion
-- [BEC Token Overflow Analysis](https://peckshield.com/2018/04/23/batchOverflow/)
+- [BEC Token Overflow Analysis](https://peckshield.medium.com/alert-batchoverflow-83013b8087f9)
 - [SafeMath Documentation](https://docs.openzeppelin.com/contracts/4.x/api/utils#SafeMath)
 - [Solidity 0.8.0 Release Notes: Checked Arithmetic](https://blog.soliditylang.org/2020/12/16/solidity-v0.8.0-release-announcement/)

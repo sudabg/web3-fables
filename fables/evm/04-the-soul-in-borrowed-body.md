@@ -116,5 +116,5 @@ tags: [evm, delegatecall, proxy, context, storage-collision, library]
 
 - wiki-web3 概念原文：代理合约与可升级
 - [EVM Deep Dives: Delegatecall](https://noxx3xxon.notion.site/noxx3xxon/EVM-Deep-Dives-61b5e3e045e2482aa4e112d97823d37d)
-- [OpenZeppelin: Proxy Patterns](https://docs.openzeppelin.com/upgrades-plugins/1.x/proxies)
+- [OpenZeppelin: Proxy Patterns](https://docs.openzeppelin.com/upgrades-plugins/proxies)
 - [Parity Multi-Sig Wallet Hack Analysis](https://blog.openzeppelin.com/on-the-parity-wallet-multisig-hack-405a8c12e8f7)

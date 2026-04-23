@@ -61,4 +61,4 @@ Rollups are the dominant Ethereum scaling strategy. The compressed caravan makes
 
 - wiki-web3: Exploring Ethereum Native Rollup
 - [Ethereum.org: Rollups](https://ethereum.org/en/developers/docs/scaling/#rollups)
-- [Vitalik: An Incomplete Guide to Rollups](https://vitalik.ca/general/2021/01/05/rollup.html)
+- [Vitalik: An Incomplete Guide to Rollups](https://vitalik.eth.limo/general/2021/01/05/rollup.html)

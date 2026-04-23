@@ -104,7 +104,7 @@ PoS 是区块链从能源密集型向资本密集型转变的核心。理解"为
 
 ### 延伸阅读
 
-- [wiki-web3 概念原文：权益证明 PoS 共识机制](../../wiki-web3/concepts/权益证明-pos-共识机制.md)
+- wiki-web3 概念原文：权益证明 PoS 共识机制
 - [Ethereum PoS FAQ](https://ethereum.org/en/roadmap/merge/)
 - [Consensys: Ethereum 2.0 Economics](https://consensys.net/blog/blockchain-explained/ethereum-2.0-economics/)
 - [Slashing Conditions in Ethereum PoS](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)

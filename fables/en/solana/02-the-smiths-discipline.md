@@ -129,7 +129,7 @@ The "blacksmith school" metaphor for Rust vs. C/C++ offers several intuitive adv
 
 ### Further Reading
 
-- [wiki-web3: Rust Smart Contract Safe Programming Standards](../../wiki-web3/concepts/rust-智能合约安全编程规范.md)
+- wiki-web3: Rust Smart Contract Safe Programming Standards
 - [The Rust Programming Language Book](https://doc.rust-lang.org/book/)
 - [Rust Ownership Explained](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html)
 - [Rust Borrow Checker](https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html)

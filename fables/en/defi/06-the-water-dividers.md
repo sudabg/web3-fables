@@ -123,6 +123,6 @@ The "water dividers" metaphor for 0xSplits offers several intuitive advantages:
 
 ### Further Reading
 
-- [wiki-web3: Analysis of 0xSplits — Revenue Splitting Protocol](../../wiki-web3/concepts/分析0xsplits---收入拆分协议.md)
+- wiki-web3: Analysis of 0xSplits — Revenue Splitting Protocol
 - [0xSplits Official Docs](https://docs.0xsplits.xyz/)
 - [Mirror: Splits for Creators](https://mirror.xyz/)

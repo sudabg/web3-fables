@@ -108,7 +108,7 @@ The pool depositor also maps to the LP's role—they bear the risk of impermanen
 
 ### Further Reading
 
-- [wiki-web3: Uniswap V2 Book](../../wiki-web3/concepts/uniswap-v2-之书.md)
+- wiki-web3: Uniswap V2 Book
 - [Uniswap V2 Whitepaper](https://uniswap.org/whitepaper.pdf)
 - [Uniswap V2 Core Concepts](https://docs.uniswap.org/contracts/v2/overview)
 - [Impermanent Loss Explained](https://medium.com/auditless/impermanent-loss-and-why-it-matters-2ce4e4ef5a2e)

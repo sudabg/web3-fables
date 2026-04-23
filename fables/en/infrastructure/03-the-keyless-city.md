@@ -56,6 +56,6 @@ Account abstraction is the most important UX improvement in Ethereum's roadmap. 
 
 ### Further Reading
 
-- [wiki-web3: Account Abstraction ERC-4337 Explained](../../wiki-web3/concepts/账户抽象erc-4337详解.md)
+- wiki-web3: Account Abstraction ERC-4337 Explained
 - [ERC-4337: Account Abstraction via Entry Point Contract](https://eips.ethereum.org/EIPS/eip-4337)
 - [Vitalik: Soulbound Tokens and Account Abstraction](https://vitalik.ca/general/2022/01/26/soulbound.html)

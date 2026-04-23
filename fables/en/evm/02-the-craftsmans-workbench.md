@@ -86,6 +86,6 @@ The "workbench" metaphor for memory offers several intuitive advantages:
 
 ### Further Reading
 
-- [wiki-web3: EVM Memory Mechanism Deep Dive](../../wiki-web3/concepts/evm-内存机制深入解析.md)
+- wiki-web3: EVM Memory Mechanism Deep Dive
 - [EVM Deep Dives: Memory](https://noxx3xxon.notion.site/noxx3xxon/EVM-Deep-Dives-61b5e3e045e2482aa4e112d97823d37d)
 - [Ethereum Yellow Paper: Memory](https://ethereum.github.io/yellowpaper/paper.pdf)

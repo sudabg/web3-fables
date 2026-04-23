@@ -127,7 +127,7 @@ The "Programmable Bazaar" metaphor for V4 Hooks offers several intuitive advanta
 
 ### Further Reading
 
-- [wiki-web3: Uniswap V4 Hooks Development Guide](../../wiki-web3/concepts/uniswap-v4-hooks-开发详解.md)
+- wiki-web3: Uniswap V4 Hooks Development Guide
 - [Uniswap V4 Whitepaper](https://uniswap.org/whitepaper-v4.pdf)
 - [Uniswap V4 Core Concepts](https://docs.uniswap.org/contracts/v4/overview)
 - [EIP-1153: Transient Storage](https://eips.ethereum.org/EIPS/eip-1153)

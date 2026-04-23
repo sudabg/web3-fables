@@ -133,7 +133,7 @@ tags: [governance, dao, token-voting, quadratic-voting, delegation, plutocracy]
 
 ### 延伸阅读
 
-- [wiki-web3 概念原文：代币投票治理](../../wiki-web3/concepts/代币投票治理.md)
+- wiki-web3 概念原文：代币投票治理
 - [Vitalik: Moving Beyond Coin Voting Governance](https://vitalik.ca/general/2021/08/16/voting3.html)
 - [Quadratic Voting: How Mechanism Design Can Radicalize Democracy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2003531)
 - [Beanstalk Flash Loan Governance Attack](https://rekt.news/beanstalk-rekt/)

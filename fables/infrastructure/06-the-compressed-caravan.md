@@ -102,8 +102,8 @@ tags: [infrastructure, rollup, l2, scaling, optimistic, zk]
 
 ### 延伸阅读
 
-- [wiki-web3 概念原文：探索以太坊原生 Rollup](../../wiki-web3/concepts/探索以太坊原生rollup---l1与l2的融合.md)
-- [wiki-web3 概念原文：解读下一代以太坊 L2](../../wiki-web3/concepts/解读下一代以太坊-layer2ii-booster-rollup.md)
+- wiki-web3 概念原文：探索以太坊原生 Rollup
+- wiki-web3 概念原文：解读下一代以太坊 L2
 - [Ethereum.org: Rollups](https://ethereum.org/en/developers/docs/scaling/rollups/)
 - [L2Beat: Rollup Comparison](https://l2beat.com/)
 - [Vitalik: Different Types of L2s](https://vitalik.ca/general/2023/06/09/three_transitions.html)

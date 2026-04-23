@@ -123,6 +123,6 @@ tags: [defi, revenue-sharing, splits, royalty, collaboration]
 
 ### 延伸阅读
 
-- [wiki-web3 概念原文：分析 0xSplits — 收入拆分协议](../../wiki-web3/concepts/分析0xsplits---收入拆分协议.md)
+- wiki-web3 概念原文：分析 0xSplits — 收入拆分协议
 - [0xSplits Official Docs](https://docs.0xsplits.xyz/)
 - [Mirror: Splits for Creators](https://mirror.xyz/)

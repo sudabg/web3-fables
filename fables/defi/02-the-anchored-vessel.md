@@ -116,7 +116,7 @@ tags: [defi, stablecoin, fx-20, peg, collateral, algorithmic]
 
 ### 延伸阅读
 
-- [wiki-web3 概念原文：现代稳定币 FX 2.0 是如何构建的](../../wiki-web3/concepts/现代稳定币-fx-20-是如何构建的.md)
+- wiki-web3 概念原文：现代稳定币 FX 2.0 是如何构建的
 - [MakerDAO: How DAI Works](https://makerdao.com/en/whitepaper/)
 - [Terra/Luna Collapse Analysis](https://www.coindesk.com/learn/what-was-terra-luna-and-ust-and-why-did-it-collapse/)
 - [FX 2.0 Stablecoin Design](https://fxprotocol.gitbook.io/fx-protocol/)

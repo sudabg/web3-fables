@@ -112,7 +112,7 @@ tags: [defi, lending, aave, collateral, liquidation, flash-loan]
 
 ### 延伸阅读
 
-- [wiki-web3 概念原文：Aave](../../wiki-web3/concepts/aave.md)
+- wiki-web3 概念原文：Aave
 - [Aave Docs: Protocol Overview](https://docs.aave.com/developers/)
 - [Aave V3 Whitepaper](https://github.com/aave/aave-v3-core/blob/master/techpaper/Aave_V3_Technical_Paper.pdf)
 - [Flash Loans Explained](https://docs.aave.com/developers/guides/flash-loans)

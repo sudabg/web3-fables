@@ -123,7 +123,7 @@ The "prophet's mold" metaphor for CREATE2 offers several intuitive advantages:
 
 ### Further Reading
 
-- [wiki-web3: CREATE2 Contract Creation and Address Prediction](../../wiki-web3/concepts/create2-创建合约预测合约地址看这一篇就够了.md)
+- wiki-web3: CREATE2 Contract Creation and Address Prediction
 - [EIP-1014: Skinny CREATE2](https://eips.ethereum.org/EIPS/eip-1014)
 - [Counterfactual Instantiation](https://www.counterfactual.com/)
 - [Uniswap V3 Factory CREATE2 Usage](https://docs.uniswap.org/contracts/v3/reference/core/UniswapV3Factory)

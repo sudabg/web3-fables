@@ -54,6 +54,6 @@ Data availability is often overlooked but is the foundation of rollup security. 
 
 ### Further Reading
 
-- [wiki-web3: Data Availability Is More Important Than You Think](../../wiki-web3/concepts/数据可用性比你想象的更重要.md)
+- wiki-web3: Data Availability Is More Important Than You Think
 - [Ethereum.org: Data Availability](https://ethereum.org/en/developers/docs/data-availability/)
 - [Celestia: What is Data Availability?](https://celestia.org/learn/data-availability/)

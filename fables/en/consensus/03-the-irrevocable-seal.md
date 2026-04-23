@@ -123,7 +123,7 @@ The "instant seal vs. final seal" metaphor for finality offers several intuitive
 
 ### Further Reading
 
-- [wiki-web3: Proof of Stake Consensus Mechanism](../../wiki-web3/concepts/权益证明-pos-共识机制.md)
+- wiki-web3: Proof of Stake Consensus Mechanism
 - [Ethereum Finality](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/#finality)
 - [Casper FFG Paper](https://arxiv.org/abs/1710.09437)
 - [Probabilistic vs Deterministic Finality](https://medium.com/mechanism-labs/finality-in-blockchain-consensus-7d963b5f9d5e)

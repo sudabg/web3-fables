@@ -110,7 +110,7 @@ The "cooling chamber" metaphor for timelock offers several intuitive advantages:
 
 ### Further Reading
 
-- [wiki-web3: Timelock and Governance](../../wiki-web3/concepts/时间锁与治理.md)
+- wiki-web3: Timelock and Governance
 - [OpenZeppelin: Timelock Controller](https://docs.openzeppelin.com/contracts/4.x/governance#timelock)
 - [Beanstalk Governance Attack Analysis](https://rekt.news/beanstalk-rekt/)
 - [DeFi Governance Best Practices](https://medium.com/@aave/governance-best-practices-9d3e7d1e0b1c)

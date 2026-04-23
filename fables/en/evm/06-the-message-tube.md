@@ -115,7 +115,7 @@ The "message tube" metaphor for calldata offers several intuitive advantages:
 
 ### Further Reading
 
-- [wiki-web3: EVM Memory Mechanism Deep Dive](../../wiki-web3/concepts/evm-内存机制深入解析.md)
+- wiki-web3: EVM Memory Mechanism Deep Dive
 - [Solidity Docs: Data Location](https://docs.soliditylang.org/en/latest/types.html#data-location)
 - [Ethereum Yellow Paper: Message Call](https://ethereum.github.io/yellowpaper/paper.pdf)
 - [ABI Encoding Specification](https://docs.soliditylang.org/en/latest/abi-spec.html)

@@ -114,7 +114,7 @@ EVM 字节码和操作码是智能合约的"最终形态"，但大多数开发�
 
 ### 延伸阅读
 
-- [wiki-web3 概念原文：Solidity 汇编与内存布局优化](../../wiki-web3/concepts/solidity汇编与内存布局优化.md)
+- wiki-web3 概念原文：Solidity 汇编与内存布局优化
 - [EVM Opcodes Reference](https://www.evm.codes/)
 - [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
 - [Solidity Inline Assembly](https://docs.soliditylang.org/en/latest/assembly.html)

@@ -112,7 +112,7 @@ The "pawnshop vs. vault" comparison offers three intuitive advantages:
 
 ### Further Reading
 
-- [wiki-web3: Aave](../../wiki-web3/concepts/aave.md)
+- wiki-web3: Aave
 - [Aave Docs: Protocol Overview](https://docs.aave.com/developers/)
 - [Aave V3 Whitepaper](https://github.com/aave/aave-v3-core/blob/master/techpaper/Aave_V3_Technical_Paper.pdf)
 - [Flash Loans Explained](https://docs.aave.com/developers/guides/flash-loans)

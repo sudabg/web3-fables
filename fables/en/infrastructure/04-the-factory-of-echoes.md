@@ -51,6 +51,6 @@ EIP-1167 is one of the most elegant gas optimizations in Ethereum. The echo cham
 
 ### Further Reading
 
-- [wiki-web3: EIP-1167 Minimal Proxy Deep Dive](../../wiki-web3/concepts/eip-1167-最小代理合约深入解析.md)
+- wiki-web3: EIP-1167 Minimal Proxy Deep Dive
 - [EIP-1167: Minimal Proxy Contract](https://eips.ethereum.org/EIPS/eip-1167)
 - [OpenZeppelin: Clones](https://docs.openzeppelin.com/contracts/4.x/api/proxy#Clones)

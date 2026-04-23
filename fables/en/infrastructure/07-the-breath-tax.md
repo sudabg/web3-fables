@@ -52,6 +52,6 @@ Gas is the most fundamental concept in Ethereum UX. The breath tax makes the abs
 
 ### Further Reading
 
-- [wiki-web3: EVM Gas Mechanism and Fees Explained](../../wiki-web3/concepts/evm-gas-机制与手续费详解.md)
+- wiki-web3: EVM Gas Mechanism and Fees Explained
 - [Ethereum.org: Gas and Fees](https://ethereum.org/en/developers/docs/gas/)
 - [EVM Opcodes and Gas Costs](https://www.evm.codes/)

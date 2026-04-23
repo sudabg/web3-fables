@@ -95,7 +95,7 @@ The "messengers in the alley" metaphor makes the MEV ecosystem tangible: sandwic
 
 ### Further Reading
 
-- [wiki-web3: Mempool Monitoring and Front-running](../../wiki-web3/concepts/mempool-监听与抢先交易实战从原理到-flashbots-套利脚本uniswap-v3-sepolia-测试网.md)
+- wiki-web3: Mempool Monitoring and Front-running
 - [Flashbots: MEV Overview](https://docs.flashbots.net/)
 - [MEV-Boost: PBS for Ethereum](https://boost.flashbots.net/)
 - [Ethereum.org: MEV](https://ethereum.org/en/developers/docs/mev/)

@@ -49,6 +49,6 @@ Proxy patterns are fundamental to modern smart contract development. The puppet 
 
 ### Further Reading
 
-- [wiki-web3: Upgradeable Smart Contract Design](../../wiki-web3/concepts/可升级智能合约设计与实现.md)
+- wiki-web3: Upgradeable Smart Contract Design
 - [OpenZeppelin: Proxy Patterns](https://docs.openzeppelin.com/upgrades-plugins/1.x/proxies)
 - [EIP-1967: Proxy Storage Slots](https://eips.ethereum.org/EIPS/eip-1967)

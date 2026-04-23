@@ -101,7 +101,7 @@ tags: [security, honeypot, scam, deception, reverse-engineering]
 
 ### 延伸阅读
 
-- [wiki-web3 概念原文：一个蜜罐合约的解析](../../wiki-web3/concepts/一个蜜罐合约的解析.md)
+- wiki-web3 概念原文：一个蜜罐合约的解析
 - [Token Sniffer: Honeypot Detection](https://tokensniffer.com/)
 - [Honeypot.is](https://honeypot.is/)
 - [Etherscan: Known Honeypot Contracts](https://etherscan.io/)

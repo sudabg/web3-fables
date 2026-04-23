@@ -68,7 +68,7 @@ Smart contract security is not about finding "the one bug"—it is about systema
 
 ### Further Reading
 
-- [wiki-web3: Common Solidity Security Vulnerabilities Overview](../../wiki-web3/concepts/solidity智能合约常见安全漏洞概述.md)
+- wiki-web3: Common Solidity Security Vulnerabilities Overview
 - [SWC Registry](https://swcregistry.io/)
 - [ConsenSys Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/)
 - [Solodit Checklist](https://solodit.xyz/checklist)

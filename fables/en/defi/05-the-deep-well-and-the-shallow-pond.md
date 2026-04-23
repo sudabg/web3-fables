@@ -100,7 +100,7 @@ The "deep well and shallow pond" metaphor offers several intuitive advantages:
 
 ### Further Reading
 
-- [wiki-web3: Uniswap V3 Development Guide](../../wiki-web3/concepts/uniswap-v3-开发指南-23799.md)
+- wiki-web3: Uniswap V3 Development Guide
 - [Uniswap V3 Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
 - [Uniswap V3 Core Concepts](https://docs.uniswap.org/concepts/protocol/concentrated-liquidity)
 - [Charged Particles: V3 LP Strategies](https://medium.com/auditless/uniswap-v3-lp-strategies-8c50f0878e26)

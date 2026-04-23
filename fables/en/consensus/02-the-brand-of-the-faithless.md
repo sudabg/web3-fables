@@ -101,7 +101,7 @@ The "brand" metaphor for Slashing offers several intuitive advantages:
 
 ### Further Reading
 
-- [wiki-web3: Proof of Stake Consensus Mechanism](../../wiki-web3/concepts/权益证明-pos-共识机制.md)
+- wiki-web3: Proof of Stake Consensus Mechanism
 - [Ethereum Slashing Specifications](https://github.com/ethereum/consensus-specs/blob/dev/specs/phase0/beacon-chain.md#slashing)
 - [Slashing Risks for Validators](https://lighthouse-book.sigmaprime.io/slashing-protection.html)
 - [Penalties and Rewards in Ethereum PoS](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/rewards-and-penalties/)

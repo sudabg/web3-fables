@@ -113,6 +113,6 @@ The "numbered lockers" metaphor for storage offers several intuitive advantages:
 
 ### Further Reading
 
-- [wiki-web3: Solidity Private Data On-Chain Transparency and Slot Storage](../../wiki-web3/concepts/solidity私有数据的链上透明性与slot存储机制.md)
+- wiki-web3: Solidity Private Data On-Chain Transparency and Slot Storage
 - [EVM Deep Dives: Storage Layout](https://noxx3xxon.notion.site/noxx3xxon/EVM-Deep-Dives-61b5e3e045e2482aa4e112d97823d37d)
 - [Solidity Docs: Storage Layout](https://docs.soliditylang.org/en/latest/internals/layout_in_storage.html)

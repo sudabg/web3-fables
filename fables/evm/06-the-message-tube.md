@@ -115,7 +115,7 @@ Calldata 是 EVM 中三个主要数据位置（storage、memory、calldata）之
 
 ### 延伸阅读
 
-- [wiki-web3 概念原文：EVM 内存机制深入解析](../../wiki-web3/concepts/evm-内存机制深入解析.md)
+- wiki-web3 概念原文：EVM 内存机制深入解析
 - [Solidity Docs: Data Location](https://docs.soliditylang.org/en/latest/types.html#data-location)
 - [Ethereum Yellow Paper: Message Call](https://ethereum.github.io/yellowpaper/paper.pdf)
 - [ABI Encoding Specification](https://docs.soliditylang.org/en/latest/abi-spec.html)

@@ -57,6 +57,6 @@ Honeypots exploit the greed and overconfidence of would-be attackers. The lighth
 
 ### Further Reading
 
-- [wiki-web3: Analysis of a Honeypot Contract](../../wiki-web3/concepts/一个蜜罐合约的解析.md)
+- wiki-web3: Analysis of a Honeypot Contract
 - [HoneyPot Detector Tools](https://honeypot.is/)
 - [Solidity Honeypot Techniques](https://medium.com/coinmonks/honeypots-in-solidity-5c5b96e9d5f3)

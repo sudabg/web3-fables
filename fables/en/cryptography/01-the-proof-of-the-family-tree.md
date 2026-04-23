@@ -109,7 +109,7 @@ The "family tree" metaphor for MPT offers several intuitive advantages:
 
 ### Further Reading
 
-- [wiki-web3: Merkle Patricia Trie Explained](../../wiki-web3/concepts/merkle-patricia-trie-explained.md)
+- wiki-web3: Merkle Patricia Trie Explained
 - [Ethereum Wiki: Patricia Tree](https://eth.wiki/en/fundamentals/patricia-tree)
 - [Merkle Trees and SPV](https://bitcoin.org/en/glossary/merkle-tree)
 - [EVM Deep Dives: State Trie](https://noxx3xxon.notion.site/noxx3xxon/EVM-Deep-Dives-61b5e3e045e2482aa4e112d97823d37d)

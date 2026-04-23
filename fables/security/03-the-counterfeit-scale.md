@@ -101,7 +101,7 @@ tags: [security, overflow, integer, bec-token, batch-transfer]
 
 ### 延伸阅读
 
-- [wiki-web3 概念原文：一行代码的漏洞，就蒸发了 280 亿美金！](../../wiki-web3/concepts/一行代码的漏洞就蒸发了280亿美金.md)
+- wiki-web3 概念原文：一行代码的漏洞，就蒸发了 280 亿美金！
 - [BEC Token BatchOverflow Vulnerability Analysis](https://peckshield.com/2018/04/22/batchOverflow/)
 - [OpenZeppelin SafeMath](https://docs.openzeppelin.com/contracts/5.x/api/utils#SafeMath)
 - [Solidity 0.8.0 Breaking Changes: Arithmetic Operations](https://docs.soliditylang.org/en/latest/080-breaking-changes.html)

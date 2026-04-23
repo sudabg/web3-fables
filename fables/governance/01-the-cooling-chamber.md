@@ -110,7 +110,7 @@ tags: [governance, timelock, dao, proposal, delay, emergency]
 
 ### 延伸阅读
 
-- [wiki-web3 概念原文：时间锁与治理](../../wiki-web3/concepts/时间锁与治理.md)
+- wiki-web3 概念原文：时间锁与治理
 - [OpenZeppelin: Timelock Controller](https://docs.openzeppelin.com/contracts/4.x/governance#timelock)
 - [Beanstalk Governance Attack Analysis](https://rekt.news/beanstalk-rekt/)
 - [DeFi Governance Best Practices](https://medium.com/@aave/governance-best-practices-9d3e7d1e0b1c)

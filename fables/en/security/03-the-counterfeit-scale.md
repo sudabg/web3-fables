@@ -59,7 +59,7 @@ The BEC token incident is particularly instructive because the vulnerable code w
 
 ### Further Reading
 
-- [wiki-web3: The One-Line Bug That Evaporated $28 Billion](../../wiki-web3/concepts/一行代码的漏洞就蒸发了280亿美金.md)
+- wiki-web3: The One-Line Bug That Evaporated $28 Billion
 - [BEC Token Overflow Analysis](https://peckshield.com/2018/04/23/batchOverflow/)
 - [SafeMath Documentation](https://docs.openzeppelin.com/contracts/4.x/api/utils#SafeMath)
 - [Solidity 0.8.0 Release Notes: Checked Arithmetic](https://blog.soliditylang.org/2020/12/16/solidity-v0.8.0-release-announcement/)

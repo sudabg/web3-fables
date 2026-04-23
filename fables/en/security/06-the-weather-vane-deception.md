@@ -63,6 +63,6 @@ Oracle manipulation is one of the most devastating and high-value attack vectors
 
 ### Further Reading
 
-- [wiki-web3: Oracle Manipulation Checklist](../../wiki-web3/concepts/solodit-检查清单解读-4预言机操纵.md)
+- wiki-web3: Oracle Manipulation Checklist
 - [Chainlink: Oracle Security](https://chain.link/education/blockchain-oracles)
 - [DeFi Oracle Exploits: A Timeline](https://rekt.news/oracle-manipulation/)

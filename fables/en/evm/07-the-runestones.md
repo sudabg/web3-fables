@@ -114,7 +114,7 @@ The "runestones" metaphor for bytecode offers several intuitive advantages:
 
 ### Further Reading
 
-- [wiki-web3: Solidity Assembly and Memory Layout Optimization](../../wiki-web3/concepts/solidity汇编与内存布局优化.md)
+- wiki-web3: Solidity Assembly and Memory Layout Optimization
 - [EVM Opcodes Reference](https://www.evm.codes/)
 - [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
 - [Solidity Inline Assembly](https://docs.soliditylang.org/en/latest/assembly.html)

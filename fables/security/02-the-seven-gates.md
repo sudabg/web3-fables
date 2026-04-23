@@ -102,7 +102,7 @@ tags: [security, vulnerabilities, access-control, overflow, oracle, gas]
 
 ### 延伸阅读
 
-- [wiki-web3 概念原文：Solidity 智能合约常见安全漏洞概述](../../wiki-web3/concepts/solidity智能合约常见安全漏洞概述.md)
+- wiki-web3 概念原文：Solidity 智能合约常见安全漏洞概述
 - [SWC Registry: Smart Contract Weakness Classification](https://swcregistry.io/)
 - [Consensys Diligence: Known Attacks](https://consensys.github.io/smart-contract-best-practices/attacks/)
 - [BEC Token Overflow Incident (2018)](https://peckshield.com/2018/04/22/batchOverflow/)

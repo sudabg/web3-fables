@@ -114,7 +114,7 @@ The "body borrowing" metaphor for `delegatecall` offers several intuitive advant
 
 ### Further Reading
 
-- [wiki-web3: Proxy Contracts and Upgradeability](../../wiki-web3/concepts/代理合约-可升级.md)
+- wiki-web3: Proxy Contracts and Upgradeability
 - [EVM Deep Dives: Delegatecall](https://noxx3xxon.notion.site/noxx3xxon/EVM-Deep-Dives-61b5e3e045e2482aa4e112d97823d37d)
 - [OpenZeppelin: Proxy Patterns](https://docs.openzeppelin.com/upgrades-plugins/1.x/proxies)
 - [Parity Multi-Sig Wallet Hack Analysis](https://blog.openzeppelin.com/on-the-parity-wallet-multisig-hack-405a8c12e8f7)

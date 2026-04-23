@@ -115,7 +115,7 @@ The "unique token" metaphor for NFT offers several intuitive advantages:
 
 ### Further Reading
 
-- [wiki-web3: NFT Non-Fungible Token Introduction](../../wiki-web3/concepts/nft非同质化代币入门.md)
+- wiki-web3: NFT Non-Fungible Token Introduction
 - [ERC-721 Standard](https://eips.ethereum.org/EIPS/eip-721)
 - [ERC-1155 Multi-Token Standard](https://eips.ethereum.org/EIPS/eip-1155)
 - [OpenSea: What is an NFT?](https://opensea.io/learn/nft/what-is-nft)

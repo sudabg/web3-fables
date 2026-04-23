@@ -111,7 +111,7 @@ tags: [cryptography, ecdsa, signature, private-key, public-key, elliptic-curve]
 
 ### 延伸阅读
 
-- [wiki-web3 概念原文：椭圆曲线加密与数字签名](../../wiki-web3/concepts/椭圆曲线加密与数字签名.md)
+- wiki-web3 概念原文：椭圆曲线加密与数字签名
 - [Ethereum ECDSA Recovery](https://ethereum.stackexchange.com/questions/13778/get-public-key-of-any-ethereum-account)
 - [ECDSA: The Digital Signature Algorithm of a Better Internet](https://blog.cloudflare.com/ecdsa-the-digital-signature-algorithm-of-a-better-internet/)
 - [secp256k1 Explained](https://www.secg.org/sec2-v2.pdf)

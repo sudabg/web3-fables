@@ -115,7 +115,7 @@ NFT 是 Web3 最出圈的概念之一，但很多人误解了它的本质——"
 
 ### 延伸阅读
 
-- [wiki-web3 概念原文：NFT 非同质化代币入门](../../wiki-web3/concepts/nft非同质化代币入门.md)
+- wiki-web3 概念原文：NFT 非同质化代币入门
 - [ERC-721 Standard](https://eips.ethereum.org/EIPS/eip-721)
 - [ERC-1155 Multi-Token Standard](https://eips.ethereum.org/EIPS/eip-1155)
 - [OpenSea: What is an NFT?](https://opensea.io/learn/nft/what-is-nft)

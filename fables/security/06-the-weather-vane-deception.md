@@ -118,7 +118,7 @@ tags: [security, oracle, price-manipulation, flash-loan, data-feed]
 
 ### 延伸阅读
 
-- [wiki-web3 概念原文：分析一个 scam 合约](../../wiki-web3/concepts/分析一个scam合约.md)
+- wiki-web3 概念原文：分析一个 scam 合约
 - [Chainlink: Price Feeds & Oracle Security](https://docs.chain.link/docs/using-chainlink-reference-contracts/)
 - [Uniswap V3: Oracle Integration](https://docs.uniswap.org/protocol/concepts/V3-overview/oracle)
 - [OpenZeppelin: Oracle Manipulation](https://blog.openzeppelin.com/secure-smart-contract-guidelines-the-dangers-of-price-oracles/)

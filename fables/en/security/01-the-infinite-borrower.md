@@ -59,7 +59,7 @@ The pawnshop clerk represents the contract's execution flow. The stranger's repe
 
 ### Further Reading
 
-- [wiki-web3: Solidity Reentrancy Attack and Defense](../../wiki-web3/concepts/solidity重入攻击与防御.md)
+- wiki-web3: Solidity Reentrancy Attack and Defense
 - [ConsenSys: Reentrancy](https://consensys.github.io/smart-contract-best-practices/attacks/reentrancy/)
 - [The DAO Hack Explained](https://blog.ethereum.org/2016/06/17/critical-update-re-dao-vulnerability)
 - [OpenZeppelin: ReentrancyGuard](https://docs.openzeppelin.com/contracts/4.x/api/security#ReentrancyGuard)

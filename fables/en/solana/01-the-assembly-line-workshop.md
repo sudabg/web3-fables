@@ -106,7 +106,7 @@ The "assembly line workshop" metaphor for Solana offers several intuitive advant
 
 ### Further Reading
 
-- [wiki-web3: Solana Virtual Machine SVM Architecture Analysis](../../wiki-web3/concepts/solana-虚拟机svm架构解析.md)
+- wiki-web3: Solana Virtual Machine SVM Architecture Analysis
 - [Solana Docs: Architecture](https://docs.solana.com/cluster/overview)
 - [Proof of History Explained](https://medium.com/solana-labs/proof-of-history-explained-9e3bde0877e2)
 - [Sealevel: Parallel Processing Thousands of Smart Contracts](https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-25eacf4bb6f7)

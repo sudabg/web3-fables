@@ -115,7 +115,7 @@ tags: [security, front-running, mempool, gas, transaction-ordering]
 
 ### 延伸阅读
 
-- [wiki-web3 概念原文：Solodit 检查清单解读 (4)：抢跑攻击](../../wiki-web3/concepts/solodit-检查清单解读-4抢跑攻击.md)
+- wiki-web3 概念原文：Solodit 检查清单解读 (4)：抢跑攻击
 - [Flashbots: Frontrunning on Ethereum](https://docs.flashbots.net/)
 - [EIP-1559: Fee Market Change](https://eips.ethereum.org/EIPS/eip-1559)
 - [Consensys: Front-running](https://consensys.github.io/smart-contract-best-practices/attacks/frontrunning/)

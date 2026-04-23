@@ -123,7 +123,7 @@ The "one-day loan" metaphor for flash loans offers several intuitive advantages:
 
 ### Further Reading
 
-- [wiki-web3: Flash Loans Explained](../../wiki-web3/concepts/闪电贷详解.md)
+- wiki-web3: Flash Loans Explained
 - [Aave Flash Loans](https://docs.aave.com/developers/guides/flash-loans)
 - [Flash Loan Attacks: Analysis](https://insights.glassnode.com/defi-flash-loan-attacks/)
 - [The Biggest Flash Loan Attacks in DeFi History](https://rekt.news/leaderboard/)

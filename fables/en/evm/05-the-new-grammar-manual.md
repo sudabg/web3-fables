@@ -115,7 +115,7 @@ The "chaptered document" metaphor for EOF offers several intuitive advantages:
 
 ### Further Reading
 
-- [wiki-web3: EVM Object Format EOF Introduction](../../wiki-web3/concepts/evm对象格式eof初步了解.md)
+- wiki-web3: EVM Object Format EOF Introduction
 - [EIP-3540: EOF - EVM Object Format v1](https://eips.ethereum.org/EIPS/eip-3540)
 - [EIP-3670: EOF - Code Validation](https://eips.ethereum.org/EIPS/eip-3670)
 - [EIP-4200: EOF - Static relative jumps](https://eips.ethereum.org/EIPS/eip-4200)

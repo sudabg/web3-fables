@@ -110,7 +110,7 @@ Gas 是 Web3 新人最困惑的概念之一——"为什么我在区块链上做
 
 ### 延伸阅读
 
-- [wiki-web3 概念原文：EVM Gas 机制与手续费详解](../../wiki-web3/concepts/evm-gas-机制与手续费详解.md)
+- wiki-web3 概念原文：EVM Gas 机制与手续费详解
 - [EVM Codes: Opcode Reference with Gas Costs](https://www.evm.codes/)
 - [Ethereum Yellow Paper: Gas Cost Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
 - [EIP-1559: Fee Market Change](https://eips.ethereum.org/EIPS/eip-1559)

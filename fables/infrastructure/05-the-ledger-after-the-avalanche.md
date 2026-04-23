@@ -114,7 +114,7 @@ tags: [infrastructure, data-availability, rollup, eigen-da, sharding]
 
 ### 延伸阅读
 
-- [wiki-web3 概念原文：数据可用性比你想象的更重要](../../wiki-web3/concepts/数据可用性比你想象的更重要.md)
+- wiki-web3 概念原文：数据可用性比你想象的更重要
 - [Ethereum Danksharding Overview](https://ethereum.org/en/roadmap/danksharding/)
 - [EigenDA: Data Availability for Rollups](https://docs.eigenlayer.xyz/eigenda/)
 - [Celestia: Modular Data Availability](https://docs.celestia.org/)

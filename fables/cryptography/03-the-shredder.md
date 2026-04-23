@@ -101,7 +101,7 @@ tags: [cryptography, hash, keccak256, preimage, collision, deterministic]
 
 ### 延伸阅读
 
-- [wiki-web3 概念原文：哈希函数与默克尔树](../../wiki-web3/concepts/哈希函数与默克尔树.md)
+- wiki-web3 概念原文：哈希函数与默克尔树
 - [Keccak Team: The Keccak Reference](https://keccak.team/files/Keccak-reference-3.0.pdf)
 - [NIST: SHA-3 Standard](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.202.pdf)
 - [Ethereum: Accounts and Keys](https://ethereum.org/en/developers/docs/accounts/)

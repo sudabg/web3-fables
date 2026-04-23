@@ -99,8 +99,8 @@ tags: [proxy, upgradeability, delegatecall, eip-1967, infrastructure]
 
 ### 延伸阅读
 
-- [wiki-web3 概念原文：代理合约](../../wiki-web3/concepts/代理合约.md)
-- [wiki-web3 概念原文：可升级智能合约设计与实现](../../wiki-web3/concepts/可升级智能合约设计与实现.md)
+- wiki-web3 概念原文：代理合约
+- wiki-web3 概念原文：可升级智能合约设计与实现
 - [EIP-1967: Standard Proxy Storage Slots](https://eips.ethereum.org/EIPS/eip-1967)
 - [EIP-1822: Universal Upgradeable Proxy Standard (UUPS)](https://eips.ethereum.org/EIPS/eip-1822)
 - [OpenZeppelin: Proxy Patterns](https://docs.openzeppelin.com/contracts/5.x/api/proxy)

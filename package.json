@@ -1,0 +1,14 @@
+{
+  "name": "web3-fables",
+  "version": "1.0.0",
+  "description": "Learn Web3 concepts through ancient-China-themed allegories",
+  "private": true,
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}

@@ -7,3 +7,6 @@ venv/
 .env
 .DS_Store
 *.prompt.md
+node_modules/
+.vitepress/dist/
+.vitepress/cache/

@@ -8,7 +8,7 @@ difficulty: "advanced"
 author: "web3-fables"
 created: "2026-04-23"
 sources:
-  - "wiki-web3/concepts/理解账户抽象-3---钱包创建.md"
+  - 'wiki-web3/concepts/理解账户抽象-3---钱包创建.md'
 tags: [account-abstraction, erc-4337, smart-contract-wallet, eoa, infrastructure]
 ---
 

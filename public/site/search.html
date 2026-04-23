@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Web3 Fables — Search & Explore</title>
+<style>
+:root{--bg:#0b0c10;--card:#1f2833;--text:#c5c6c7;--accent:#66fcf1;--accent2:#45a29e;--muted:#4b5260;}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Noto Sans SC",sans-serif;background:var(--bg);color:var(--text);line-height:1.6;min-height:100vh}
+.container{max-width:960px;margin:0 auto;padding:2rem 1rem}
+header{text-align:center;margin-bottom:2rem}
+header h1{font-size:2rem;color:var(--accent);margin-bottom:.5rem}
+header p{color:var(--muted)}
+.filters{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:1rem;margin-bottom:1.5rem}
+.filters select,.filters input{width:100%;padding:.6rem .8rem;border-radius:6px;border:1px solid var(--muted);background:var(--card);color:var(--text);font-size:.95rem}
+.filters select:focus,.filters input:focus{outline:none;border-color:var(--accent)}
+.stats{text-align:center;color:var(--muted);font-size:.9rem;margin-bottom:1rem}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:1.2rem}
+.card{background:var(--card);border-radius:10px;padding:1.2rem;border:1px solid #2a3240;transition:transform .15s,border-color .15s;cursor:pointer;text-decoration:none;color:inherit;display:block}
+.card:hover{transform:translateY(-3px);border-color:var(--accent2)}
+.card .tag{display:inline-block;font-size:.72rem;padding:.2rem .5rem;border-radius:4px;background:#2a3240;color:var(--accent2);margin-right:.4rem;margin-bottom:.4rem;text-transform:uppercase;letter-spacing:.02em}
+.card .tag.category{background:#1b3a4b;color:#48cae4}
+.card .tag.difficulty-beginner{background:#1b4332;color:#95d5b2}
+.card .tag.difficulty-intermediate{background:#3d2b1f;color:#e9c46a}
+.card .tag.difficulty-advanced{background:#3b1f2b;color:#f4a261}
+.card h3{font-size:1.05rem;color:var(--accent);margin-bottom:.3rem}
+.card .meta{font-size:.85rem;color:var(--muted);margin-bottom:.6rem}
+.card .concept{font-size:.9rem;color:#ddd;margin-bottom:.6rem}
+.card .tags{margin-top:.5rem}
+.no-results{text-align:center;color:var(--muted);padding:3rem 1rem}
+footer{text-align:center;margin-top:3rem;color:var(--muted);font-size:.85rem}
+</style>
+</head>
+<body>
+<div class="container">
+<header>
+  <h1>🔍 Web3 Fables Explorer</h1>
+  <p>Search 42 allegories across Security, DeFi, EVM, Consensus, Cryptography, Governance, Solana and more.</p>
+</header>
+<div class="filters">
+  <input type="text" id="q" placeholder="Search title, concept or tags..." />
+  <select id="cat"><option value="">All Categories</option></select>
+  <select id="diff"><option value="">All Levels</option></select>
+  <select id="tag"><option value="">All Tags</option></select>
+</div>
+<div class="stats" id="stats"></div>
+<div class="grid" id="grid"></div>
+<div class="no-results" id="empty" style="display:none">No fables match your filters.</div>
+<footer>Web3 Fables — <a href="https://github.com/sudabg/web3-fables" style="color:var(--accent2)">GitHub</a></footer>
+</div>
+<script>
+let data=[];
+const $=id=>document.getElementById(id);
+const fmt=u=>u.replace(/\s+/g,'-').toLowerCase();
+async function load(){
+  const res=await fetch('fables-index.json');
+  data=await res.json();
+  populateSelects();
+  render();
+}
+function populateSelects(){
+  const cats=[...new Set(data.map(d=>d.category))].sort();
+  const diffs=[...new Set(data.map(d=>d.difficulty))].sort();
+  const tags=[...new Set(data.flatMap(d=>d.tags))].sort();
+  const add=(sel,arr)=>arr.forEach(v=>{const o=document.createElement('option');o.value=v;o.textContent=v;sel.appendChild(o);});
+  add($('cat'),cats);
+  add($('diff'),diffs);
+  add($('tag'),tags);
+}
+function render(){
+  const q=$('q').value.trim().toLowerCase();
+  const cat=$('cat').value;
+  const diff=$('diff').value;
+  const tag=$('tag').value;
+  const out=data.filter(d=>{
+    if(cat && d.category!==cat) return false;
+    if(diff && d.difficulty!==diff) return false;
+    if(tag && !d.tags.includes(tag)) return false;
+    if(q){
+      const hay=(d.title_cn+' '+d.title_en+' '+d.concept_cn+' '+d.concept_en+' '+d.tags.join(' ')).toLowerCase();
+      if(!hay.includes(q)) return false;
+    }
+    return true;
+  });
+  $('stats').textContent=`Showing ${out.length} of ${data.length} fables`;
+  const g=$('grid');
+  g.innerHTML='';
+  if(out.length===0){$('empty').style.display='block';return;}
+  $('empty').style.display='none';
+  out.forEach(d=>{
+    const a=document.createElement('a');
+    a.className='card';
+    a.href='../'+d.path_cn;
+    a.target='_blank';
+    a.innerHTML=`<div>
+      <span class="tag category">${d.category}</span>
+      <span class="tag difficulty-${d.difficulty}">${d.difficulty}</span>
+    </div>
+    <h3>${d.title_cn}</h3>
+    <div class="meta">${d.title_en}</div>
+    <div class="concept">${d.concept_cn} · ${d.concept_en}</div>
+    <div class="tags">${d.tags.map(t=>`<span class="tag">${t}</span>`).join('')}</div>`;
+    g.appendChild(a);
+  });
+}
+['input','change'].forEach(evt=>{
+  ['q','cat','diff','tag'].forEach(id=>$(id).addEventListener(evt,render));
+});
+load();
+</script>
+</body>
+</html>

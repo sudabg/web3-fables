@@ -8,7 +8,7 @@ difficulty: "intermediate"
 author: "web3-fables"
 created: "2026-04-23"
 sources:
-  - "wiki-web3/concepts/分析0xsplits---收入拆分协议.md"
+  - 'wiki-web3/concepts/分析0xsplits---收入拆分协议.md'
 tags: [defi, revenue-sharing, splits, royalty, collaboration]
 ---
 

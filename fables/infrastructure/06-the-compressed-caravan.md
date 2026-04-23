@@ -8,7 +8,7 @@ difficulty: "intermediate"
 author: "web3-fables"
 created: "2026-04-23"
 sources:
-  - "wiki-web3/concepts/探索以太坊原生rollup---l1与l2的融合.md"
+  - 'wiki-web3/concepts/探索以太坊原生rollup---l1与l2的融合.md'
   - "wiki-web3/concepts/解读下一代以太坊-layer2ii-booster-rollup.md"
 tags: [infrastructure, rollup, l2, scaling, optimistic, zk]
 ---

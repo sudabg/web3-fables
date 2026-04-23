@@ -1,0 +1,835 @@
+[
+  {
+    "slug": "01-the-stakers-roulette",
+    "category": "consensus",
+    "difficulty": "intermediate",
+    "title_cn": "押注者的轮盘",
+    "title_en": "The Stakers' Roulette",
+    "concept_cn": "权益证明共识机制",
+    "concept_en": "Proof of Stake Consensus",
+    "tags": [
+      "consensus",
+      "pos",
+      "validator",
+      "stake",
+      "attestation",
+      "epoch",
+      "finality"
+    ],
+    "path_cn": "fables/consensus/01-the-stakers-roulette.md",
+    "path_en": "fables/en/consensus/01-the-stakers-roulette.md",
+    "difficulty_label": "进阶"
+  },
+  {
+    "slug": "02-the-brand-of-the-faithless",
+    "category": "consensus",
+    "difficulty": "intermediate",
+    "title_cn": "失信者的烙印",
+    "title_en": "The Brand of the Faithless",
+    "concept_cn": "Slashing 惩罚机制",
+    "concept_en": "Slashing Mechanism",
+    "tags": [
+      "consensus",
+      "pos",
+      "slashing",
+      "validator",
+      "penalty",
+      "byzantine"
+    ],
+    "path_cn": "fables/consensus/02-the-brand-of-the-faithless.md",
+    "path_en": "fables/en/consensus/02-the-brand-of-the-faithless.md",
+    "difficulty_label": "进阶"
+  },
+  {
+    "slug": "03-the-irrevocable-seal",
+    "category": "consensus",
+    "difficulty": "intermediate",
+    "title_cn": "不可撤销的印章",
+    "title_en": "The Irrevocable Seal",
+    "concept_cn": "区块最终性",
+    "concept_en": "Block Finality",
+    "tags": [
+      "consensus",
+      "finality",
+      "checkpoint",
+      "epoch",
+      "reorg",
+      "probabilistic"
+    ],
+    "path_cn": "fables/consensus/03-the-irrevocable-seal.md",
+    "path_en": "fables/en/consensus/03-the-irrevocable-seal.md",
+    "difficulty_label": "进阶"
+  },
+  {
+    "slug": "01-the-proof-of-the-family-tree",
+    "category": "cryptography",
+    "difficulty": "advanced",
+    "title_cn": "家谱树的证明",
+    "title_en": "The Proof of the Family Tree",
+    "concept_cn": "Merkle Patricia Trie",
+    "concept_en": "Merkle Patricia Trie",
+    "tags": [
+      "cryptography",
+      "merkle",
+      "trie",
+      "proof",
+      "state",
+      "verification"
+    ],
+    "path_cn": "fables/cryptography/01-the-proof-of-the-family-tree.md",
+    "path_en": "fables/en/cryptography/01-the-proof-of-the-family-tree.md",
+    "difficulty_label": "高阶"
+  },
+  {
+    "slug": "02-the-fingerprint-seal",
+    "category": "cryptography",
+    "difficulty": "intermediate",
+    "title_cn": "指纹印章",
+    "title_en": "The Fingerprint Seal",
+    "concept_cn": "椭圆曲线数字签名",
+    "concept_en": "Elliptic Curve Digital Signature (ECDSA)",
+    "tags": [
+      "cryptography",
+      "ecdsa",
+      "signature",
+      "private-key",
+      "public-key",
+      "elliptic-curve"
+    ],
+    "path_cn": "fables/cryptography/02-the-fingerprint-seal.md",
+    "path_en": "fables/en/cryptography/02-the-fingerprint-seal.md",
+    "difficulty_label": "进阶"
+  },
+  {
+    "slug": "03-the-shredder",
+    "category": "cryptography",
+    "difficulty": "beginner",
+    "title_cn": "碎纸机",
+    "title_en": "The Shredder",
+    "concept_cn": "密码学哈希函数",
+    "concept_en": "Cryptographic Hash Function",
+    "tags": [
+      "cryptography",
+      "hash",
+      "keccak256",
+      "preimage",
+      "collision",
+      "deterministic"
+    ],
+    "path_cn": "fables/cryptography/03-the-shredder.md",
+    "path_en": "fables/en/cryptography/03-the-shredder.md",
+    "difficulty_label": "入门"
+  },
+  {
+    "slug": "04-the-cave-of-zero-knowledge",
+    "category": "cryptography",
+    "difficulty": "advanced",
+    "title_cn": "零知识洞穴",
+    "title_en": "The Cave of Zero Knowledge",
+    "concept_cn": "零知识证明",
+    "concept_en": "ZK-SNARKs / Zero-Knowledge Proofs",
+    "tags": [
+      "cryptography",
+      "zk-snark",
+      "zero-knowledge",
+      "proof",
+      "privacy",
+      "scalability"
+    ],
+    "path_cn": "fables/cryptography/04-the-cave-of-zero-knowledge.md",
+    "path_en": "fables/en/cryptography/04-the-cave-of-zero-knowledge.md",
+    "difficulty_label": "高阶"
+  },
+  {
+    "slug": "01-the-automated-market",
+    "category": "defi",
+    "difficulty": "intermediate",
+    "title_cn": "自动市集",
+    "title_en": "The Automated Market",
+    "concept_cn": "Uniswap V2 自动做市商",
+    "concept_en": "Uniswap V2 AMM",
+    "tags": [
+      "defi",
+      "amm",
+      "uniswap",
+      "liquidity",
+      "xy-k"
+    ],
+    "path_cn": "fables/defi/01-the-automated-market.md",
+    "path_en": "fables/en/defi/01-the-automated-market.md",
+    "difficulty_label": "进阶"
+  },
+  {
+    "slug": "02-the-anchored-vessel",
+    "category": "defi",
+    "difficulty": "advanced",
+    "title_cn": "锚定之舟",
+    "title_en": "The Anchored Vessel",
+    "concept_cn": "现代稳定币设计",
+    "concept_en": "Modern Stablecoin Design (FX 2.0)",
+    "tags": [
+      "defi",
+      "stablecoin",
+      "fx-20",
+      "peg",
+      "collateral",
+      "algorithmic"
+    ],
+    "path_cn": "fables/defi/02-the-anchored-vessel.md",
+    "path_en": "fables/en/defi/02-the-anchored-vessel.md",
+    "difficulty_label": "高阶"
+  },
+  {
+    "slug": "03-the-pawnshop-and-the-vault",
+    "category": "defi",
+    "difficulty": "intermediate",
+    "title_cn": "当铺与保险库",
+    "title_en": "The Pawnshop and the Vault",
+    "concept_cn": "Aave 借贷协议",
+    "concept_en": "Aave Lending Protocol",
+    "tags": [
+      "defi",
+      "lending",
+      "aave",
+      "collateral",
+      "liquidation",
+      "flash-loan"
+    ],
+    "path_cn": "fables/defi/03-the-pawnshop-and-the-vault.md",
+    "path_en": "fables/en/defi/03-the-pawnshop-and-the-vault.md",
+    "difficulty_label": "进阶"
+  },
+  {
+    "slug": "04-the-messengers-in-the-alley",
+    "category": "defi",
+    "difficulty": "advanced",
+    "title_cn": "暗巷中的信使",
+    "title_en": "The Messengers in the Alley",
+    "concept_cn": "MEV 与 Flashbots",
+    "concept_en": "MEV and Flashbots",
+    "tags": [
+      "defi",
+      "mev",
+      "flashbots",
+      "sandwich-attack",
+      "priority-fee",
+      "block-builder"
+    ],
+    "path_cn": "fables/defi/04-the-messengers-in-the-alley.md",
+    "path_en": "fables/en/defi/04-the-messengers-in-the-alley.md",
+    "difficulty_label": "高阶"
+  },
+  {
+    "slug": "05-the-deep-well-and-the-shallow-pond",
+    "category": "defi",
+    "difficulty": "advanced",
+    "title_cn": "深井与浅池",
+    "title_en": "The Deep Well and the Shallow Pond",
+    "concept_cn": "Uniswap V3 集中流动性",
+    "concept_en": "Uniswap V3 Concentrated Liquidity",
+    "tags": [
+      "defi",
+      "uniswap",
+      "concentrated-liquidity",
+      "tick",
+      "range",
+      "lp"
+    ],
+    "path_cn": "fables/defi/05-the-deep-well-and-the-shallow-pond.md",
+    "path_en": "fables/en/defi/05-the-deep-well-and-the-shallow-pond.md",
+    "difficulty_label": "高阶"
+  },
+  {
+    "slug": "06-the-water-dividers",
+    "category": "defi",
+    "difficulty": "intermediate",
+    "title_cn": "分水渠",
+    "title_en": "The Water Dividers",
+    "concept_cn": "0xSplits 收入拆分协议",
+    "concept_en": "0xSplits Revenue Sharing",
+    "tags": [
+      "defi",
+      "revenue-sharing",
+      "splits",
+      "royalty",
+      "collaboration"
+    ],
+    "path_cn": "fables/defi/06-the-water-dividers.md",
+    "path_en": "fables/en/defi/06-the-water-dividers.md",
+    "difficulty_label": "进阶"
+  },
+  {
+    "slug": "07-the-programmable-bazaar",
+    "category": "defi",
+    "difficulty": "advanced",
+    "title_cn": "可编程市集",
+    "title_en": "The Programmable Bazaar",
+    "concept_cn": "Uniswap V4 Hooks",
+    "concept_en": "Uniswap V4 Hooks",
+    "tags": [
+      "defi",
+      "uniswap",
+      "v4",
+      "hooks",
+      "singleton",
+      "flash-accounting",
+      "customization"
+    ],
+    "path_cn": "fables/defi/07-the-programmable-bazaar.md",
+    "path_en": "fables/en/defi/07-the-programmable-bazaar.md",
+    "difficulty_label": "高阶"
+  },
+  {
+    "slug": "01-the-numbered-lockers",
+    "category": "evm",
+    "difficulty": "intermediate",
+    "title_cn": "编号柜",
+    "title_en": "The Numbered Lockers",
+    "concept_cn": "EVM 存储布局与 Slot",
+    "concept_en": "EVM Storage Layout & Slot",
+    "tags": [
+      "evm",
+      "storage",
+      "slot",
+      "layout",
+      "packing",
+      "optimization"
+    ],
+    "path_cn": "fables/evm/01-the-numbered-lockers.md",
+    "path_en": "fables/en/evm/01-the-numbered-lockers.md",
+    "difficulty_label": "进阶"
+  },
+  {
+    "slug": "02-the-craftsmans-workbench",
+    "category": "evm",
+    "difficulty": "intermediate",
+    "title_cn": "工匠的工作台",
+    "title_en": "The Craftsman's Workbench",
+    "concept_cn": "EVM 内存机制",
+    "concept_en": "EVM Memory Mechanism",
+    "tags": [
+      "evm",
+      "memory",
+      "mload",
+      "mstore",
+      "mszie",
+      "temporary",
+      "expansion"
+    ],
+    "path_cn": "fables/evm/02-the-craftsmans-workbench.md",
+    "path_en": "fables/en/evm/02-the-craftsmans-workbench.md",
+    "difficulty_label": "进阶"
+  },
+  {
+    "slug": "03-the-prophets-mold",
+    "category": "evm",
+    "difficulty": "advanced",
+    "title_cn": "预言家的模具",
+    "title_en": "The Prophet's Mold",
+    "concept_cn": "CREATE2 预测合约地址",
+    "concept_en": "CREATE2 Predictable Contract Address",
+    "tags": [
+      "evm",
+      "create2",
+      "deterministic-address",
+      "salt",
+      "factory",
+      "counterfactual"
+    ],
+    "path_cn": "fables/evm/03-the-prophets-mold.md",
+    "path_en": "fables/en/evm/03-the-prophets-mold.md",
+    "difficulty_label": "高阶"
+  },
+  {
+    "slug": "04-the-soul-in-borrowed-body",
+    "category": "evm",
+    "difficulty": "advanced",
+    "title_cn": "借身还魂",
+    "title_en": "The Soul in Borrowed Body",
+    "concept_cn": "Delegatecall 委托调用",
+    "concept_en": "Delegatecall",
+    "tags": [
+      "evm",
+      "delegatecall",
+      "proxy",
+      "context",
+      "storage-collision",
+      "library"
+    ],
+    "path_cn": "fables/evm/04-the-soul-in-borrowed-body.md",
+    "path_en": "fables/en/evm/04-the-soul-in-borrowed-body.md",
+    "difficulty_label": "高阶"
+  },
+  {
+    "slug": "05-the-new-grammar-manual",
+    "category": "evm",
+    "difficulty": "advanced",
+    "title_cn": "新语法手册",
+    "title_en": "The New Grammar Manual",
+    "concept_cn": "EVM 对象格式",
+    "concept_en": "EVM Object Format (EOF)",
+    "tags": [
+      "evm",
+      "eof",
+      "container",
+      "validation",
+      "bytecode",
+      "section"
+    ],
+    "path_cn": "fables/evm/05-the-new-grammar-manual.md",
+    "path_en": "fables/en/evm/05-the-new-grammar-manual.md",
+    "difficulty_label": "高阶"
+  },
+  {
+    "slug": "06-the-message-tube",
+    "category": "evm",
+    "difficulty": "beginner",
+    "title_cn": "传令筒",
+    "title_en": "The Message Tube",
+    "concept_cn": "EVM Calldata",
+    "concept_en": "EVM Calldata",
+    "tags": [
+      "evm",
+      "calldata",
+      "msg.data",
+      "read-only",
+      "external-call",
+      "encoding"
+    ],
+    "path_cn": "fables/evm/06-the-message-tube.md",
+    "path_en": "fables/en/evm/06-the-message-tube.md",
+    "difficulty_label": "入门"
+  },
+  {
+    "slug": "07-the-runestones",
+    "category": "evm",
+    "difficulty": "intermediate",
+    "title_cn": "符文石",
+    "title_en": "The Runestones",
+    "concept_cn": "EVM 操作码与字节码",
+    "concept_en": "EVM Opcodes & Bytecode",
+    "tags": [
+      "evm",
+      "opcode",
+      "bytecode",
+      "assembly",
+      "instruction",
+      "stack-machine"
+    ],
+    "path_cn": "fables/evm/07-the-runestones.md",
+    "path_en": "fables/en/evm/07-the-runestones.md",
+    "difficulty_label": "进阶"
+  },
+  {
+    "slug": "01-the-cooling-chamber",
+    "category": "governance",
+    "difficulty": "intermediate",
+    "title_cn": "冷却室",
+    "title_en": "The Cooling Chamber",
+    "concept_cn": "时间锁与治理",
+    "concept_en": "Timelock Governance",
+    "tags": [
+      "governance",
+      "timelock",
+      "dao",
+      "proposal",
+      "delay",
+      "emergency"
+    ],
+    "path_cn": "fables/governance/01-the-cooling-chamber.md",
+    "path_en": "fables/en/governance/01-the-cooling-chamber.md",
+    "difficulty_label": "进阶"
+  },
+  {
+    "slug": "02-the-weighted-democracy",
+    "category": "governance",
+    "difficulty": "intermediate",
+    "title_cn": "砝码民主",
+    "title_en": "The Weighted Democracy",
+    "concept_cn": "代币投票治理",
+    "concept_en": "Token Voting Governance",
+    "tags": [
+      "governance",
+      "dao",
+      "token-voting",
+      "quadratic-voting",
+      "delegation",
+      "plutocracy"
+    ],
+    "path_cn": "fables/governance/02-the-weighted-democracy.md",
+    "path_en": "fables/en/governance/02-the-weighted-democracy.md",
+    "difficulty_label": "进阶"
+  },
+  {
+    "slug": "02-the-theater-of-shadows",
+    "category": "infrastructure",
+    "difficulty": "intermediate",
+    "title_cn": "影之剧场",
+    "title_en": "The Theater of Shadows",
+    "concept_cn": "代理合约与可升级性",
+    "concept_en": "Proxy Contract & Upgradeability",
+    "tags": [
+      "proxy",
+      "upgradeability",
+      "delegatecall",
+      "eip-1967",
+      "infrastructure"
+    ],
+    "path_cn": "fables/infrastructure/02-the-theater-of-shadows.md",
+    "path_en": "fables/en/infrastructure/02-the-theater-of-shadows.md",
+    "difficulty_label": "进阶"
+  },
+  {
+    "slug": "03-the-keyless-city",
+    "category": "infrastructure",
+    "difficulty": "advanced",
+    "title_cn": "无钥之城",
+    "title_en": "The Keyless City",
+    "concept_cn": "账户抽象",
+    "concept_en": "Account Abstraction (ERC-4337)",
+    "tags": [
+      "account-abstraction",
+      "erc-4337",
+      "smart-contract-wallet",
+      "eoa",
+      "infrastructure"
+    ],
+    "path_cn": "fables/infrastructure/03-the-keyless-city.md",
+    "path_en": "fables/en/infrastructure/03-the-keyless-city.md",
+    "difficulty_label": "高阶"
+  },
+  {
+    "slug": "04-the-factory-of-echoes",
+    "category": "infrastructure",
+    "difficulty": "intermediate",
+    "title_cn": "回声工坊",
+    "title_en": "The Factory of Echoes",
+    "concept_cn": "EIP-1167 最小代理合约",
+    "concept_en": "EIP-1167 Minimal Proxy / Clone Factory",
+    "tags": [
+      "infrastructure",
+      "minimal-proxy",
+      "clone",
+      "factory",
+      "eip-1167",
+      "gas-optimization"
+    ],
+    "path_cn": "fables/infrastructure/04-the-factory-of-echoes.md",
+    "path_en": "fables/en/infrastructure/04-the-factory-of-echoes.md",
+    "difficulty_label": "进阶"
+  },
+  {
+    "slug": "05-the-ledger-after-the-avalanche",
+    "category": "infrastructure",
+    "difficulty": "advanced",
+    "title_cn": "雪崩后的账本",
+    "title_en": "The Ledger After the Avalanche",
+    "concept_cn": "数据可用性",
+    "concept_en": "Data Availability",
+    "tags": [
+      "infrastructure",
+      "data-availability",
+      "rollup",
+      "eigen-da",
+      "sharding"
+    ],
+    "path_cn": "fables/infrastructure/05-the-ledger-after-the-avalanche.md",
+    "path_en": "fables/en/infrastructure/05-the-ledger-after-the-avalanche.md",
+    "difficulty_label": "高阶"
+  },
+  {
+    "slug": "06-the-compressed-caravan",
+    "category": "infrastructure",
+    "difficulty": "intermediate",
+    "title_cn": "压缩商队",
+    "title_en": "The Compressed Caravan",
+    "concept_cn": "Rollup 与 L2 扩容",
+    "concept_en": "Rollup / Layer 2 Scaling",
+    "tags": [
+      "infrastructure",
+      "rollup",
+      "l2",
+      "scaling",
+      "optimistic",
+      "zk"
+    ],
+    "path_cn": "fables/infrastructure/06-the-compressed-caravan.md",
+    "path_en": "fables/en/infrastructure/06-the-compressed-caravan.md",
+    "difficulty_label": "进阶"
+  },
+  {
+    "slug": "07-the-breath-tax",
+    "category": "infrastructure",
+    "difficulty": "beginner",
+    "title_cn": "呼吸税",
+    "title_en": "The Breath Tax",
+    "concept_cn": "EVM Gas 机制",
+    "concept_en": "EVM Gas Mechanism",
+    "tags": [
+      "infrastructure",
+      "gas",
+      "evm",
+      "turing-completeness",
+      "opcode",
+      "fee"
+    ],
+    "path_cn": "fables/infrastructure/07-the-breath-tax.md",
+    "path_en": "fables/en/infrastructure/07-the-breath-tax.md",
+    "difficulty_label": "入门"
+  },
+  {
+    "slug": "08-the-bridge-guard",
+    "category": "infrastructure",
+    "difficulty": "advanced",
+    "title_cn": "桥梁守卫",
+    "title_en": "The Bridge Guard",
+    "concept_cn": "跨链桥",
+    "concept_en": "Cross-Chain Bridge",
+    "tags": [
+      "bridge",
+      "cross-chain",
+      "lock-and-mint",
+      "relay",
+      "validator",
+      "wrapped-asset"
+    ],
+    "path_cn": "fables/infrastructure/08-the-bridge-guard.md",
+    "path_en": "fables/en/infrastructure/08-the-bridge-guard.md",
+    "difficulty_label": "高阶"
+  },
+  {
+    "slug": "01-the-non-fungible-token",
+    "category": "other",
+    "difficulty": "beginner",
+    "title_cn": "独一无二的令牌",
+    "title_en": "The Non-Fungible Token",
+    "concept_cn": "非同质化代币",
+    "concept_en": "NFT (Non-Fungible Token)",
+    "tags": [
+      "nft",
+      "non-fungible",
+      "ownership",
+      "digital-collectible",
+      "metadata",
+      "provenance"
+    ],
+    "path_cn": "fables/other/01-the-non-fungible-token.md",
+    "path_en": "fables/en/other/01-the-non-fungible-token.md",
+    "difficulty_label": "入门"
+  },
+  {
+    "slug": "02-the-one-day-loan",
+    "category": "other",
+    "difficulty": "intermediate",
+    "title_cn": "一日借款",
+    "title_en": "The One-Day Loan",
+    "concept_cn": "闪电贷",
+    "concept_en": "Flash Loan",
+    "tags": [
+      "flash-loan",
+      "uncollateralized",
+      "atomic",
+      "arbitrage",
+      "liquidation",
+      "attack-vector"
+    ],
+    "path_cn": "fables/other/02-the-one-day-loan.md",
+    "path_en": "fables/en/other/02-the-one-day-loan.md",
+    "difficulty_label": "进阶"
+  },
+  {
+    "slug": "01-the-infinite-borrower",
+    "category": "security",
+    "difficulty": "intermediate",
+    "title_cn": "无限借贷者",
+    "title_en": "The Infinite Borrower",
+    "concept_cn": "重入攻击",
+    "concept_en": "Reentrancy Attack",
+    "tags": [
+      "security",
+      "reentrancy",
+      "solidity",
+      "dao"
+    ],
+    "path_cn": "fables/security/01-the-infinite-borrower.md",
+    "path_en": "fables/en/security/01-the-infinite-borrower.md",
+    "difficulty_label": "进阶"
+  },
+  {
+    "slug": "02-the-seven-gates",
+    "category": "security",
+    "difficulty": "beginner",
+    "title_cn": "七道门",
+    "title_en": "The Seven Gates",
+    "concept_cn": "Solidity 常见安全漏洞概述",
+    "concept_en": "Common Solidity Security Vulnerabilities",
+    "tags": [
+      "security",
+      "vulnerabilities",
+      "access-control",
+      "overflow",
+      "oracle",
+      "gas"
+    ],
+    "path_cn": "fables/security/02-the-seven-gates.md",
+    "path_en": "fables/en/security/02-the-seven-gates.md",
+    "difficulty_label": "入门"
+  },
+  {
+    "slug": "03-the-counterfeit-scale",
+    "category": "security",
+    "difficulty": "intermediate",
+    "title_cn": "伪造的秤",
+    "title_en": "The Counterfeit Scale",
+    "concept_cn": "整数溢出攻击",
+    "concept_en": "Integer Overflow Attack (BEC Token)",
+    "tags": [
+      "security",
+      "overflow",
+      "integer",
+      "bec-token",
+      "batch-transfer"
+    ],
+    "path_cn": "fables/security/03-the-counterfeit-scale.md",
+    "path_en": "fables/en/security/03-the-counterfeit-scale.md",
+    "difficulty_label": "进阶"
+  },
+  {
+    "slug": "04-the-messenger-and-the-auction-house",
+    "category": "security",
+    "difficulty": "intermediate",
+    "title_cn": "信使与拍卖行",
+    "title_en": "The Messenger and the Auction House",
+    "concept_cn": "抢跑攻击",
+    "concept_en": "Front-running Attack",
+    "tags": [
+      "security",
+      "front-running",
+      "mempool",
+      "gas",
+      "transaction-ordering"
+    ],
+    "path_cn": "fables/security/04-the-messenger-and-the-auction-house.md",
+    "path_en": "fables/en/security/04-the-messenger-and-the-auction-house.md",
+    "difficulty_label": "进阶"
+  },
+  {
+    "slug": "05-the-lighthouse-in-the-swamp",
+    "category": "security",
+    "difficulty": "intermediate",
+    "title_cn": "沼泽中的灯塔",
+    "title_en": "The Lighthouse in the Swamp",
+    "concept_cn": "蜜罐合约",
+    "concept_en": "Honeypot Contract",
+    "tags": [
+      "security",
+      "honeypot",
+      "scam",
+      "deception",
+      "reverse-engineering"
+    ],
+    "path_cn": "fables/security/05-the-lighthouse-in-the-swamp.md",
+    "path_en": "fables/en/security/05-the-lighthouse-in-the-swamp.md",
+    "difficulty_label": "进阶"
+  },
+  {
+    "slug": "06-the-weather-vane-deception",
+    "category": "security",
+    "difficulty": "advanced",
+    "title_cn": "风向旗的骗局",
+    "title_en": "The Weather Vane Deception",
+    "concept_cn": "预言机操纵",
+    "concept_en": "Oracle Manipulation",
+    "tags": [
+      "security",
+      "oracle",
+      "price-manipulation",
+      "flash-loan",
+      "data-feed"
+    ],
+    "path_cn": "fables/security/06-the-weather-vane-deception.md",
+    "path_en": "fables/en/security/06-the-weather-vane-deception.md",
+    "difficulty_label": "高阶"
+  },
+  {
+    "slug": "01-the-assembly-line-workshop",
+    "category": "solana",
+    "difficulty": "advanced",
+    "title_cn": "流水线工坊",
+    "title_en": "The Assembly Line Workshop",
+    "concept_cn": "Solana 架构与 SVM",
+    "concept_en": "Solana Architecture & SVM",
+    "tags": [
+      "solana",
+      "svm",
+      "parallelism",
+      "poh",
+      "turbine",
+      "gulf-stream",
+      "sealevel"
+    ],
+    "path_cn": "fables/solana/01-the-assembly-line-workshop.md",
+    "path_en": "fables/en/solana/01-the-assembly-line-workshop.md",
+    "difficulty_label": "高阶"
+  },
+  {
+    "slug": "02-the-smiths-discipline",
+    "category": "solana",
+    "difficulty": "intermediate",
+    "title_cn": "铁匠的纪律",
+    "title_en": "The Smith's Discipline",
+    "concept_cn": "Rust 安全编程",
+    "concept_en": "Rust Safe Programming",
+    "tags": [
+      "solana",
+      "rust",
+      "memory-safety",
+      "ownership",
+      "borrow-checker",
+      "type-system"
+    ],
+    "path_cn": "fables/solana/02-the-smiths-discipline.md",
+    "path_en": "fables/en/solana/02-the-smiths-discipline.md",
+    "difficulty_label": "进阶"
+  },
+  {
+    "slug": "03-the-timed-safe",
+    "category": "solana",
+    "difficulty": "intermediate",
+    "title_cn": "计时保险箱",
+    "title_en": "The Timed Safe",
+    "concept_cn": "Solana 账户模型与租金",
+    "concept_en": "Solana Account Model & Rent",
+    "tags": [
+      "solana",
+      "account",
+      "rent",
+      "lamports",
+      "state",
+      "data"
+    ],
+    "path_cn": "fables/solana/03-the-timed-safe.md",
+    "path_en": "fables/en/solana/03-the-timed-safe.md",
+    "difficulty_label": "进阶"
+  },
+  {
+    "slug": "04-the-deterministic-address",
+    "category": "solana",
+    "difficulty": "advanced",
+    "title_cn": "确定性门牌",
+    "title_en": "The Deterministic Address",
+    "concept_cn": "程序派生地址",
+    "concept_en": "Program Derived Address (PDA)",
+    "tags": [
+      "solana",
+      "pda",
+      "deterministic-address",
+      "program-derived",
+      "bump",
+      "canonical"
+    ],
+    "path_cn": "fables/solana/04-the-deterministic-address.md",
+    "path_en": "fables/en/solana/04-the-deterministic-address.md",
+    "difficulty_label": "高阶"
+  }
+]

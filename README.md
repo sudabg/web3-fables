@@ -20,7 +20,7 @@ Web3 领域充斥着抽象概念、数学证明和难以直觉理解的安全陷
 
 ```
 web3-fables/
-├── fables/                  # 寓言正文
+├── fables/                  # 寓言正文（中文）
 │   ├── consensus/           # 共识机制：PoW, PoS, BFT, 分叉选择
 │   ├── defi/                # 去中心化金融：AMM, 借贷, 预言机, MEV
 │   ├── security/            # 安全：重入, 抢跑, 预言机操纵, 权限绕过
@@ -28,15 +28,36 @@ web3-fables/
 │   ├── cryptography/        # 密码学：ZK, Merkle 树, 签名, 阈值密码
 │   ├── governance/          # 治理：DAO, 投票机制, 委托治理
 │   ├── infrastructure/      # 基础设施：Rollup, 桥, 账户抽象, 代理合约
-│   └── solana/              # Solana 生态：SVM, 账户模型, Staking
+│   ├── solana/              # Solana 生态：SVM, 账户模型, Staking
+│   └── en/                  # 英文版寓言（镜像目录结构）
+├── site/                    # 搜索索引与电子书
+│   ├── search.html          # 在线搜索页面
+│   ├── fables-index.json    # 全量元数据索引
+│   ├── web3-fables.epub     # EPUB 电子书
+│   └── web3-fables.pdf      # PDF 电子书
+├── .vitepress/              # VitePress 静态网站配置
 ├── templates/
 │   └── fable-template.md    # 贡献者模板
 ├── scripts/
 │   ├── generate-fable.py    # 从 wiki-web3 概念自动生成寓言草稿
-│   └── validate-fable.py    # 结构校验与质量门禁
+│   ├── validate-fable.py    # 结构校验与质量门禁
+│   └── build-ebook.py       # 生成 EPUB/PDF 电子书
 ├── concepts-catalog.md      # wiki-web3 概念 → 寓言映射目录
 └── README.md
 ```
+
+## 在线访问
+
+- 🌐 **网站**: [https://sudabg.github.io/web3-fables](https://sudabg.github.io/web3-fables)（自动部署）
+- 🔍 **搜索**: [按概念/难度/标签筛选](https://sudabg.github.io/web3-fables/site/search.html)
+- 📖 **EPUB 电子书**: [下载 web3-fables.epub](site/web3-fables.epub)
+- 📄 **PDF 电子书**: [下载 web3-fables.pdf](site/web3-fables.pdf)
+
+网站使用 VitePress 构建，支持：
+- 中英文双语阅读
+- 内置全文搜索（VitePress Local Search）
+- 分类侧边栏导航
+- 响应式布局（桌面/移动端）
 
 ## 阅读示例
 

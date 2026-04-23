@@ -65,4 +65,4 @@ Oracle manipulation is one of the most devastating and high-value attack vectors
 
 - wiki-web3: Oracle Manipulation Checklist
 - [Chainlink: Oracle Security](https://chain.link/education/blockchain-oracles)
-- [DeFi Oracle Exploits: A Timeline](https://rekt.news/oracle-manipulation)
+- [DeFi Oracle Exploits: A Timeline](https://ethereum.org/en/developers/docs/oracles/)

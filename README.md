@@ -43,8 +43,47 @@ web3-fables/
 | 寓言 | 概念 | 难度 |
 |------|------|------|
 | [无限借贷者](fables/security/01-the-infinite-borrower.md) | 重入攻击 (Reentrancy) | 中级 |
+| [七道门](fables/security/02-the-seven-gates.md) | Solidity 常见安全漏洞 | 初级 |
+| [伪造的秤](fables/security/03-the-counterfeit-scale.md) | 整数溢出攻击 | 中级 |
+| [信使与拍卖行](fables/security/04-the-messenger-and-the-auction-house.md) | 抢跑攻击 | 中级 |
+| [沼泽中的灯塔](fables/security/05-the-lighthouse-in-the-swamp.md) | 蜜罐合约 | 中级 |
+| [风向旗的骗局](fables/security/06-the-weather-vane-deception.md) | 预言机操纵 | 高级 |
 | [影之剧场](fables/infrastructure/02-the-theater-of-shadows.md) | 代理合约与可升级性 | 中级 |
 | [无钥之城](fables/infrastructure/03-the-keyless-city.md) | 账户抽象 (ERC-4337) | 高级 |
+| [回声工坊](fables/infrastructure/04-the-factory-of-echoes.md) | EIP-1167 最小代理 | 中级 |
+| [雪崩后的账本](fables/infrastructure/05-the-ledger-after-the-avalanche.md) | 数据可用性 | 高级 |
+| [压缩商队](fables/infrastructure/06-the-compressed-caravan.md) | Rollup / L2 扩容 | 中级 |
+| [呼吸税](fables/infrastructure/07-the-breath-tax.md) | EVM Gas 机制 | 初级 |
+| [自动市集](fables/defi/01-the-automated-market.md) | Uniswap V2 AMM | 中级 |
+| [锚定之舟](fables/defi/02-the-anchored-vessel.md) | 现代稳定币设计 | 高级 |
+| [当铺与保险库](fables/defi/03-the-pawnshop-and-the-vault.md) | Aave 借贷协议 | 中级 |
+| [暗巷中的信使](fables/defi/04-the-messengers-in-the-alley.md) | MEV 与 Flashbots | 高级 |
+| [深井与浅池](fables/defi/05-the-deep-well-and-the-shallow-pond.md) | Uniswap V3 集中流动性 | 高级 |
+| [分水渠](fables/defi/06-the-water-dividers.md) | 0xSplits 收入拆分 | 中级 |
+| [可编程市集](fables/defi/07-the-programmable-bazaar.md) | Uniswap V4 Hooks | 高级 |
+| [编号柜](fables/evm/01-the-numbered-lockers.md) | EVM 存储布局与 Slot | 中级 |
+| [工匠的工作台](fables/evm/02-the-craftsmans-workbench.md) | EVM 内存机制 | 中级 |
+| [预言家的模具](fables/evm/03-the-prophets-mold.md) | CREATE2 预测地址 | 高级 |
+| [借身还魂](fables/evm/04-the-soul-in-borrowed-body.md) | Delegatecall | 高级 |
+| [新语法手册](fables/evm/05-the-new-grammar-manual.md) | EVM 对象格式 EOF | 高级 |
+| [传令筒](fables/evm/06-the-message-tube.md) | EVM Calldata | 初级 |
+| [符文石](fables/evm/07-the-runestones.md) | EVM 操作码与字节码 | 中级 |
+| [家谱树的证明](fables/cryptography/01-the-proof-of-the-family-tree.md) | Merkle Patricia Trie | 高级 |
+| [指纹印章](fables/cryptography/02-the-fingerprint-seal.md) | 椭圆曲线数字签名 | 中级 |
+| [碎纸机](fables/cryptography/03-the-shredder.md) | 密码学哈希函数 | 初级 |
+| [零知识洞穴](fables/cryptography/04-the-cave-of-zero-knowledge.md) | ZK-SNARKs | 高级 |
+| [押注者的轮盘](fables/consensus/01-the-stakers-roulette.md) | PoS 共识机制 | 中级 |
+| [失信者的烙印](fables/consensus/02-the-brand-of-the-faithless.md) | Slashing 惩罚机制 | 中级 |
+| [不可撤销的印章](fables/consensus/03-the-irrevocable-seal.md) | 区块最终性 | 中级 |
+| [冷却室](fables/governance/01-the-cooling-chamber.md) | 时间锁与治理 | 中级 |
+| [砝码民主](fables/governance/02-the-weighted-democracy.md) | 代币投票治理 | 中级 |
+| [流水线工坊](fables/solana/01-the-assembly-line-workshop.md) | Solana 架构与 SVM | 高级 |
+| [铁匠的纪律](fables/solana/02-the-smiths-discipline.md) | Rust 安全编程 | 中级 |
+| [计时保险箱](fables/solana/03-the-timed-safe.md) | Solana 账户模型与租金 | 中级 |
+| [确定性门牌](fables/solana/04-the-deterministic-address.md) | Solana PDA | 高级 |
+| [桥梁守卫](fables/infrastructure/08-the-bridge-guard.md) | 跨链桥 | 高级 |
+| [独一无二的令牌](fables/other/01-the-non-fungible-token.md) | NFT | 初级 |
+| [一日借款](fables/other/02-the-one-day-loan.md) | 闪电贷 | 中级 |
 
 ## 快速开始（贡献者）
 

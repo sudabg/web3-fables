@@ -1,5 +1,5 @@
 ---
-title: "The Infinite Borrower"
+title: "无限借贷者 / The Infinite Borrower"
 title_cn: "无限借贷者"
 concept: "Reentrancy Attack"
 concept_cn: "重入攻击"
@@ -12,7 +12,7 @@ sources:
 tags: [security, reentrancy, solidity, dao]
 ---
 
-# The Infinite Borrower
+# 无限借贷者 / The Infinite Borrower
 
 > *"规则写得太信任人，本身就是一种漏洞。"*
 

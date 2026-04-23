@@ -1,5 +1,5 @@
 ---
-title: "The Non-Fungible Token"
+title: "独一无二的令牌 / The Non-Fungible Token"
 title_cn: "独一无二的令牌"
 concept: "NFT (Non-Fungible Token)"
 concept_cn: "非同质化代币"
@@ -12,7 +12,7 @@ sources:
 tags: [nft, non-fungible, ownership, digital-collectible, metadata, provenance]
 ---
 
-# The Non-Fungible Token
+# 独一无二的令牌 / The Non-Fungible Token
 
 > *"两枚相同的金币可以互换，但两幅画永远不能。"*
 

@@ -1,5 +1,5 @@
 ---
-title: "The Shredder"
+title: "碎纸机 / The Shredder"
 title_cn: "碎纸机"
 concept: "Cryptographic Hash Function"
 concept_cn: "密码学哈希函数"
@@ -12,7 +12,7 @@ sources:
 tags: [cryptography, hash, keccak256, preimage, collision, deterministic]
 ---
 
-# The Shredder
+# 碎纸机 / The Shredder
 
 > *"无论放进去的是一页纸还是一本书，出来的总是同样大小的碎屑。你无法把碎屑拼回原样，但同样的输入永远产生同样的碎屑。"*
 

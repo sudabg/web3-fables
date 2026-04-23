@@ -1,5 +1,5 @@
 ---
-title: "The Lighthouse in the Swamp"
+title: "沼泽中的灯塔 / The Lighthouse in the Swamp"
 title_cn: "沼泽中的灯塔"
 concept: "Honeypot Contract"
 concept_cn: "蜜罐合约"
@@ -12,7 +12,7 @@ sources:
 tags: [security, honeypot, scam, deception, reverse-engineering]
 ---
 
-# The Lighthouse in the Swamp
+# 沼泽中的灯塔 / The Lighthouse in the Swamp
 
 > *"最危险的陷阱，是看起来不像陷阱的那一个。"*
 

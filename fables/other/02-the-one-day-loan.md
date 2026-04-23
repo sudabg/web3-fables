@@ -1,5 +1,5 @@
 ---
-title: "The One-Day Loan"
+title: "一日借款 / The One-Day Loan"
 title_cn: "一日借款"
 concept: "Flash Loan"
 concept_cn: "闪电贷"
@@ -12,7 +12,7 @@ sources:
 tags: [flash-loan, uncollateralized, atomic, arbitrage, liquidation, attack-vector]
 ---
 
-# The One-Day Loan
+# 一日借款 / The One-Day Loan
 
 > *"借一万两，用一天，零利息，但必须在日落前归还。"*
 

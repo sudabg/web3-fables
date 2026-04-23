@@ -1,5 +1,5 @@
 ---
-title: "The Automated Market"
+title: "自动市集 / The Automated Market"
 title_cn: "自动市集"
 concept: "Uniswap V2 AMM"
 concept_cn: "Uniswap V2 自动做市商"
@@ -12,7 +12,7 @@ sources:
 tags: [defi, amm, uniswap, liquidity, xy-k]
 ---
 
-# The Automated Market
+# 自动市集 / The Automated Market
 
 > *"不需要掌柜的市集，靠一根永远平衡的天平运转。"*
 

@@ -1,5 +1,5 @@
 ---
-title: "The Proof of the Family Tree"
+title: "家谱树的证明 / The Proof of the Family Tree"
 title_cn: "家谱树的证明"
 concept: "Merkle Patricia Trie"
 concept_cn: "Merkle Patricia Trie"
@@ -12,7 +12,7 @@ sources:
 tags: [cryptography, merkle, trie, proof, state, verification]
 ---
 
-# The Proof of the Family Tree
+# 家谱树的证明 / The Proof of the Family Tree
 
 > *"不需要展开整本族谱，只需一片叶子和一条路径，就能证明你是这个家族的人。"*
 

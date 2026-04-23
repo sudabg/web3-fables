@@ -1,5 +1,5 @@
 ---
-title: "The Stakers' Roulette"
+title: "押注者的轮盘 / The Stakers' Roulette"
 title_cn: "押注者的轮盘"
 concept: "Proof of Stake Consensus"
 concept_cn: "权益证明共识机制"
@@ -12,7 +12,7 @@ sources:
 tags: [consensus, pos, validator, stake, attestation, epoch, finality]
 ---
 
-# The Stakers' Roulette
+# 押注者的轮盘 / The Stakers' Roulette
 
 > *"不是谁力气大谁记账，而是谁押得多、谁押得久，谁获得记账权。但押得多也意味着错得多时，输得越多。"*
 

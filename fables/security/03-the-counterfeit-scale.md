@@ -1,5 +1,5 @@
 ---
-title: "The Counterfeit Scale"
+title: "伪造的秤 / The Counterfeit Scale"
 title_cn: "伪造的秤"
 concept: "Integer Overflow Attack (BEC Token)"
 concept_cn: "整数溢出攻击"
@@ -12,7 +12,7 @@ sources:
 tags: [security, overflow, integer, bec-token, batch-transfer]
 ---
 
-# The Counterfeit Scale
+# 伪造的秤 / The Counterfeit Scale
 
 > *"最危险的谎言，是机器替你撒的。"*
 

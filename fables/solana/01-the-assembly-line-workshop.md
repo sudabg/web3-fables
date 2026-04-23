@@ -1,5 +1,5 @@
 ---
-title: "The Assembly Line Workshop"
+title: "流水线工坊 / The Assembly Line Workshop"
 title_cn: "流水线工坊"
 concept: "Solana Architecture & SVM"
 concept_cn: "Solana 架构与 SVM"
@@ -12,7 +12,7 @@ sources:
 tags: [solana, svm, parallelism, poh, turbine, gulf-stream, sealevel]
 ---
 
-# The Assembly Line Workshop
+# 流水线工坊 / The Assembly Line Workshop
 
 > *"不是一台机器在干活，而是整个工坊的每道工序都在同时运转。"*
 

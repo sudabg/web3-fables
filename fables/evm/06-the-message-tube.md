@@ -1,5 +1,5 @@
 ---
-title: "The Message Tube"
+title: "传令筒 / The Message Tube"
 title_cn: "传令筒"
 concept: "EVM Calldata"
 concept_cn: "EVM Calldata"
@@ -12,7 +12,7 @@ sources:
 tags: [evm, calldata, msg.data, read-only, external-call, encoding]
 ---
 
-# The Message Tube
+# 传令筒 / The Message Tube
 
 > *"只读不写的信筒，传给别人的话，自己不能改。"*
 

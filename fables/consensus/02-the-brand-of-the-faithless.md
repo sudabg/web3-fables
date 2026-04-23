@@ -1,5 +1,5 @@
 ---
-title: "The Brand of the Faithless"
+title: "失信者的烙印 / The Brand of the Faithless"
 title_cn: "失信者的烙印"
 concept: "Slashing Mechanism"
 concept_cn: "Slashing 惩罚机制"
@@ -12,7 +12,7 @@ sources:
 tags: [consensus, pos, slashing, validator, penalty, byzantine]
 ---
 
-# The Brand of the Faithless
+# 失信者的烙印 / The Brand of the Faithless
 
 > *"信任是用钱买来的，背叛是用钱偿还的。"*
 

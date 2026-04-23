@@ -1,5 +1,5 @@
 ---
-title: "The Cooling Chamber"
+title: "冷却室 / The Cooling Chamber"
 title_cn: "冷却室"
 concept: "Timelock Governance"
 concept_cn: "时间锁与治理"
@@ -12,7 +12,7 @@ sources:
 tags: [governance, timelock, dao, proposal, delay, emergency]
 ---
 
-# The Cooling Chamber
+# 冷却室 / The Cooling Chamber
 
 > *"激情做出的决定，往往需要在冰室里放一放。"*
 

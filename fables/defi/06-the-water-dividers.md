@@ -1,5 +1,5 @@
 ---
-title: "The Water Dividers"
+title: "分水渠 / The Water Dividers"
 title_cn: "分水渠"
 concept: "0xSplits Revenue Sharing"
 concept_cn: "0xSplits 收入拆分协议"
@@ -12,7 +12,7 @@ sources:
 tags: [defi, revenue-sharing, splits, royalty, collaboration]
 ---
 
-# The Water Dividers
+# 分水渠 / The Water Dividers
 
 > *"最难的不是赚钱，而是公平地分钱。"*
 

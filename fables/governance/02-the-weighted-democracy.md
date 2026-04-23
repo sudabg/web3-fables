@@ -1,5 +1,5 @@
 ---
-title: "The Weighted Democracy"
+title: "砝码民主 / The Weighted Democracy"
 title_cn: "砝码民主"
 concept: "Token Voting Governance"
 concept_cn: "代币投票治理"
@@ -12,7 +12,7 @@ sources:
 tags: [governance, dao, token-voting, quadratic-voting, delegation, plutocracy]
 ---
 
-# The Weighted Democracy
+# 砝码民主 / The Weighted Democracy
 
 > *"一人一票是理想，一币一票是现实。现实的问题是：钱越多，话越重。"*
 

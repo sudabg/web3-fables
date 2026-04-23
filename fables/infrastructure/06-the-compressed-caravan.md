@@ -1,5 +1,5 @@
 ---
-title: "The Compressed Caravan"
+title: "压缩商队 / The Compressed Caravan"
 title_cn: "压缩商队"
 concept: "Rollup / Layer 2 Scaling"
 concept_cn: "Rollup 与 L2 扩容"
@@ -13,7 +13,7 @@ sources:
 tags: [infrastructure, rollup, l2, scaling, optimistic, zk]
 ---
 
-# The Compressed Caravan
+# 压缩商队 / The Compressed Caravan
 
 > *"最快的路不是独自上路，而是让别人替你证明你已经到了。"*
 

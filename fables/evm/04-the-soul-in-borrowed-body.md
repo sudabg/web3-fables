@@ -1,5 +1,5 @@
 ---
-title: "The Soul in Borrowed Body"
+title: "借身还魂 / The Soul in Borrowed Body"
 title_cn: "借身还魂"
 concept: "Delegatecall"
 concept_cn: "Delegatecall 委托调用"
@@ -12,7 +12,7 @@ sources:
 tags: [evm, delegatecall, proxy, context, storage-collision, library]
 ---
 
-# The Soul in Borrowed Body
+# 借身还魂 / The Soul in Borrowed Body
 
 > *"借别人的身体说话，但话里的意思，全算在自己头上。"*
 

@@ -1,5 +1,5 @@
 ---
-title: "The Factory of Echoes"
+title: "回声工坊 / The Factory of Echoes"
 title_cn: "回声工坊"
 concept: "EIP-1167 Minimal Proxy / Clone Factory"
 concept_cn: "EIP-1167 最小代理合约"
@@ -12,7 +12,7 @@ sources:
 tags: [infrastructure, minimal-proxy, clone, factory, eip-1167, gas-optimization]
 ---
 
-# The Factory of Echoes
+# 回声工坊 / The Factory of Echoes
 
 > *"最轻的重复，是让别人替你说话。"*
 

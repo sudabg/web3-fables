@@ -1,5 +1,5 @@
 ---
-title: "The Fingerprint Seal"
+title: "指纹印章 / The Fingerprint Seal"
 title_cn: "指纹印章"
 concept: "Elliptic Curve Digital Signature (ECDSA)"
 concept_cn: "椭圆曲线数字签名"
@@ -12,7 +12,7 @@ sources:
 tags: [cryptography, ecdsa, signature, private-key, public-key, elliptic-curve]
 ---
 
-# The Fingerprint Seal
+# 指纹印章 / The Fingerprint Seal
 
 > *"你的印章不能被别人复制，但任何人都能验证它确实是你盖的。"*
 

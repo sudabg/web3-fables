@@ -1,5 +1,5 @@
 ---
-title: "The Messenger and the Auction House"
+title: "信使与拍卖行 / The Messenger and the Auction House"
 title_cn: "信使与拍卖行"
 concept: "Front-running Attack"
 concept_cn: "抢跑攻击"
@@ -12,7 +12,7 @@ sources:
 tags: [security, front-running, mempool, gas, transaction-ordering]
 ---
 
-# The Messenger and the Auction House
+# 信使与拍卖行 / The Messenger and the Auction House
 
 > *"在这个国度里，所有信件都被拆开阅读后才会送达，而邮费决定了谁先看信。"*
 

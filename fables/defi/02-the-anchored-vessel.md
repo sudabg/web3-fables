@@ -1,5 +1,5 @@
 ---
-title: "The Anchored Vessel"
+title: "锚定之舟 / The Anchored Vessel"
 title_cn: "锚定之舟"
 concept: "Modern Stablecoin Design (FX 2.0)"
 concept_cn: "现代稳定币设计"
@@ -12,7 +12,7 @@ sources:
 tags: [defi, stablecoin, fx-20, peg, collateral, algorithmic]
 ---
 
-# The Anchored Vessel
+# 锚定之舟 / The Anchored Vessel
 
 > *"一艘船不靠码头，而是靠一根链子把自己锁在水底。链子越短，船越稳；但浪太大时，链子会断。"*
 

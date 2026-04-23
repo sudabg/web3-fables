@@ -1,5 +1,5 @@
 ---
-title: "The Timed Safe"
+title: "计时保险箱 / The Timed Safe"
 title_cn: "计时保险箱"
 concept: "Solana Account Model & Rent"
 concept_cn: "Solana 账户模型与租金"
@@ -12,7 +12,7 @@ sources:
 tags: [solana, account, rent, lamports, state, data]
 ---
 
-# The Timed Safe
+# 计时保险箱 / The Timed Safe
 
 > *"保险箱不是免费的。存得越久，租金越高。不付租金，东西就会被清走。"*
 

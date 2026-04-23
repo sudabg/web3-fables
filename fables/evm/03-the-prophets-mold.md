@@ -1,5 +1,5 @@
 ---
-title: "The Prophet's Mold"
+title: "预言家的模具 / The Prophet's Mold"
 title_cn: "预言家的模具"
 concept: "CREATE2 Predictable Contract Address"
 concept_cn: "CREATE2 预测合约地址"
@@ -12,7 +12,7 @@ sources:
 tags: [evm, create2, deterministic-address, salt, factory, counterfactual]
 ---
 
-# The Prophet's Mold
+# 预言家的模具 / The Prophet's Mold
 
 > *"在东西被造出来之前，你就知道它会出现在哪里。"*
 

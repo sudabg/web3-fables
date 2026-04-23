@@ -1,5 +1,5 @@
 ---
-title: "The Seven Gates"
+title: "七道门 / The Seven Gates"
 title_cn: "七道门"
 concept: "Common Solidity Security Vulnerabilities"
 concept_cn: "Solidity 常见安全漏洞概述"
@@ -12,7 +12,7 @@ sources:
 tags: [security, vulnerabilities, access-control, overflow, oracle, gas]
 ---
 
-# The Seven Gates
+# 七道门 / The Seven Gates
 
 > *"每扇门都通向同一个宝藏，但每扇门后都站着不同的守卫，各有各的疏忽。"*
 

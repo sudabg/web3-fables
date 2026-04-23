@@ -1,5 +1,5 @@
 ---
-title: "The Ledger After the Avalanche"
+title: "雪崩后的账本 / The Ledger After the Avalanche"
 title_cn: "雪崩后的账本"
 concept: "Data Availability"
 concept_cn: "数据可用性"
@@ -12,7 +12,7 @@ sources:
 tags: [infrastructure, data-availability, rollup, eigen-da, sharding]
 ---
 
-# The Ledger After the Avalanche
+# 雪崩后的账本 / The Ledger After the Avalanche
 
 > *"数据的价值不在于它被存储了，而在于任何需要它的人都能找到它。"*
 

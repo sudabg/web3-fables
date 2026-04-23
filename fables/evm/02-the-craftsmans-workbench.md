@@ -1,5 +1,5 @@
 ---
-title: "The Craftsman's Workbench"
+title: "工匠的工作台 / The Craftsman's Workbench"
 title_cn: "工匠的工作台"
 concept: "EVM Memory Mechanism"
 concept_cn: "EVM 内存机制"
@@ -12,7 +12,7 @@ sources:
 tags: [evm, memory, mload, mstore, mszie, temporary, expansion]
 ---
 
-# The Craftsman's Workbench
+# 工匠的工作台 / The Craftsman's Workbench
 
 > *"工作台越大，干活越贵。但每次干完活，桌子会自动清空。"*
 

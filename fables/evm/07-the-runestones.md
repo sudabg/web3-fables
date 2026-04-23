@@ -1,5 +1,5 @@
 ---
-title: "The Runestones"
+title: "符文石 / The Runestones"
 title_cn: "符文石"
 concept: "EVM Opcodes & Bytecode"
 concept_cn: "EVM 操作码与字节码"
@@ -12,7 +12,7 @@ sources:
 tags: [evm, opcode, bytecode, assembly, instruction, stack-machine]
 ---
 
-# The Runestones
+# 符文石 / The Runestones
 
 > *"每一块石头上只刻一个字，但按照正确的顺序排列，它们能建造一座城。"*
 

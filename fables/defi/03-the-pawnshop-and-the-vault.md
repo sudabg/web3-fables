@@ -1,5 +1,5 @@
 ---
-title: "The Pawnshop and the Vault"
+title: "当铺与保险库 / The Pawnshop and the Vault"
 title_cn: "当铺与保险库"
 concept: "Aave Lending Protocol"
 concept_cn: "Aave 借贷协议"
@@ -12,7 +12,7 @@ sources:
 tags: [defi, lending, aave, collateral, liquidation, flash-loan]
 ---
 
-# The Pawnshop and the Vault
+# 当铺与保险库 / The Pawnshop and the Vault
 
 > *"借钱不难，难的是让借出去的钱能自己回家。"*
 

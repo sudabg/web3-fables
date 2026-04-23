@@ -1,5 +1,5 @@
 ---
-title: "The Numbered Lockers"
+title: "编号柜 / The Numbered Lockers"
 title_cn: "编号柜"
 concept: "EVM Storage Layout & Slot"
 concept_cn: "EVM 存储布局与 Slot"
@@ -12,7 +12,7 @@ sources:
 tags: [evm, storage, slot, layout, packing, optimization]
 ---
 
-# The Numbered Lockers
+# 编号柜 / The Numbered Lockers
 
 > *"你以为锁在柜子里的秘密，其实柜子本身就在大厅中央。"*
 

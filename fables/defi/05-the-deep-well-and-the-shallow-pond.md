@@ -1,5 +1,5 @@
 ---
-title: "The Deep Well and the Shallow Pond"
+title: "深井与浅池 / The Deep Well and the Shallow Pond"
 title_cn: "深井与浅池"
 concept: "Uniswap V3 Concentrated Liquidity"
 concept_cn: "Uniswap V3 集中流动性"
@@ -12,7 +12,7 @@ sources:
 tags: [defi, uniswap, concentrated-liquidity, tick, range, lp]
 ---
 
-# The Deep Well and the Shallow Pond
+# 深井与浅池 / The Deep Well and the Shallow Pond
 
 > *"不是水越多越好，而是水要在对的地方。"*
 

@@ -1,5 +1,5 @@
 ---
-title: "The Deterministic Address"
+title: "确定性门牌 / The Deterministic Address"
 title_cn: "确定性门牌"
 concept: "Program Derived Address (PDA)"
 concept_cn: "程序派生地址"
@@ -12,7 +12,7 @@ sources:
 tags: [solana, pda, deterministic-address, program-derived, bump, canonical]
 ---
 
-# The Deterministic Address
+# 确定性门牌 / The Deterministic Address
 
 > *"门牌不是随机分配的，而是由房子的主人和房子的用途共同决定的。"*
 

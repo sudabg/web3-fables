@@ -1,5 +1,5 @@
 ---
-title: "The Cave of Zero Knowledge"
+title: "零知识洞穴 / The Cave of Zero Knowledge"
 title_cn: "零知识洞穴"
 concept: "ZK-SNARKs / Zero-Knowledge Proofs"
 concept_cn: "零知识证明"
@@ -12,7 +12,7 @@ sources:
 tags: [cryptography, zk-snark, zero-knowledge, proof, privacy, scalability]
 ---
 
-# The Cave of Zero Knowledge
+# 零知识洞穴 / The Cave of Zero Knowledge
 
 > *"我可以向你证明我知道密码，而不告诉你密码是什么。"*
 

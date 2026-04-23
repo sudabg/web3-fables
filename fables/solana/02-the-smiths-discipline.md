@@ -1,5 +1,5 @@
 ---
-title: "The Smith's Discipline"
+title: "铁匠的纪律 / The Smith's Discipline"
 title_cn: "铁匠的纪律"
 concept: "Rust Safe Programming"
 concept_cn: "Rust 安全编程"
@@ -12,7 +12,7 @@ sources:
 tags: [solana, rust, memory-safety, ownership, borrow-checker, type-system]
 ---
 
-# The Smith's Discipline
+# 铁匠的纪律 / The Smith's Discipline
 
 > *"不是不允许犯错，而是编译器在你犯错之前就把门关上。"*
 

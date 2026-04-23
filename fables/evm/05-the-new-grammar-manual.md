@@ -1,5 +1,5 @@
 ---
-title: "The New Grammar Manual"
+title: "新语法手册 / The New Grammar Manual"
 title_cn: "新语法手册"
 concept: "EVM Object Format (EOF)"
 concept_cn: "EVM 对象格式"
@@ -12,7 +12,7 @@ sources:
 tags: [evm, eof, container, validation, bytecode, section]
 ---
 
-# The New Grammar Manual
+# 新语法手册 / The New Grammar Manual
 
 > *"旧的书写方式没有标点，新的手册把句子分成了章节。"*
 

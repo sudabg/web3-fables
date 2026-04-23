@@ -1,5 +1,5 @@
 ---
-title: "The Irrevocable Seal"
+title: "不可撤销的印章 / The Irrevocable Seal"
 title_cn: "不可撤销的印章"
 concept: "Block Finality"
 concept_cn: "区块最终性"
@@ -12,7 +12,7 @@ sources:
 tags: [consensus, finality, checkpoint, epoch, reorg, probabilistic]
 ---
 
-# The Irrevocable Seal
+# 不可撤销的印章 / The Irrevocable Seal
 
 > *"在文件上盖章只是开始。等到章上的墨迹渗入纸纤维，才算真正生效。"*
 

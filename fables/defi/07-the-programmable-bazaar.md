@@ -1,5 +1,5 @@
 ---
-title: "The Programmable Bazaar"
+title: "可编程市集 / The Programmable Bazaar"
 title_cn: "可编程市集"
 concept: "Uniswap V4 Hooks"
 concept_cn: "Uniswap V4 Hooks"
@@ -12,7 +12,7 @@ sources:
 tags: [defi, uniswap, v4, hooks, singleton, flash-accounting, customization]
 ---
 
-# The Programmable Bazaar
+# 可编程市集 / The Programmable Bazaar
 
 > *"市集不仅卖东西，还允许你在每个关键节点插入自己的规矩。"*
 

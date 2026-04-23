@@ -1,5 +1,5 @@
 ---
-title: "The Weather Vane Deception"
+title: "风向旗的骗局 / The Weather Vane Deception"
 title_cn: "风向旗的骗局"
 concept: "Oracle Manipulation"
 concept_cn: "预言机操纵"
@@ -12,7 +12,7 @@ sources:
 tags: [security, oracle, price-manipulation, flash-loan, data-feed]
 ---
 
-# The Weather Vane Deception
+# 风向旗的骗局 / The Weather Vane Deception
 
 > *"当你把所有的决定都交给一根指针时，控制指针的人就控制了你。"*
 

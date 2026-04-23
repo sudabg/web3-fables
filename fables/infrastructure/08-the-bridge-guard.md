@@ -1,5 +1,5 @@
 ---
-title: "The Bridge Guard"
+title: "桥梁守卫 / The Bridge Guard"
 title_cn: "桥梁守卫"
 concept: "Cross-Chain Bridge"
 concept_cn: "跨链桥"
@@ -12,7 +12,7 @@ sources:
 tags: [bridge, cross-chain, lock-and-mint, relay, validator, wrapped-asset]
 ---
 
-# The Bridge Guard
+# 桥梁守卫 / The Bridge Guard
 
 > *"两座城之间没有直路，只有一座由守卫看管的桥。桥断了，两城就断了联系。"*
 

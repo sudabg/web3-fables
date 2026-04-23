@@ -1,5 +1,5 @@
 ---
-title: "The Breath Tax"
+title: "呼吸税 / The Breath Tax"
 title_cn: "呼吸税"
 concept: "EVM Gas Mechanism"
 concept_cn: "EVM Gas 机制"
@@ -12,7 +12,7 @@ sources:
 tags: [infrastructure, gas, evm, turing-completeness, opcode, fee]
 ---
 
-# The Breath Tax
+# 呼吸税 / The Breath Tax
 
 > *"呼吸不是自由的——在这里，每一次呼吸都要付费，而费率的唯一目的，是确保你最终会停下。"*
 

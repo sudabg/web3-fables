@@ -1,5 +1,5 @@
 ---
-title: "The Theater of Shadows"
+title: "影之剧场 / The Theater of Shadows"
 title_cn: "影之剧场"
 concept: "Proxy Contracts and Upgradeability"
 concept_cn: "代理合约与可升级性"
@@ -13,7 +13,7 @@ sources:
 tags: [proxy, upgradeability, delegatecall, eip-1967, infrastructure]
 ---
 
-# The Theater of Shadows
+# 影之剧场 / The Theater of Shadows
 
 > *"观众从不关心幕后换了多少人，只要舞台的位置不变。"*
 

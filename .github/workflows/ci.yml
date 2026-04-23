@@ -1,0 +1,42 @@
+name: Validate Fables
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Validate all fables
+        run: python scripts/validate-fable.py --all
+
+      - name: Check concepts catalog freshness
+        run: |
+          # 简单检查：确保 concepts-catalog.md 中所有已完成的寓言文件都存在
+          python -c "
+          import re, sys
+          from pathlib import Path
+          catalog = Path('concepts-catalog.md').read_text()
+          errors = 0
+          for m in re.finditer(r'\\[✅\\].*?\\[(fables/[^\\]]+)\\]', catalog):
+              p = Path(m.group(1))
+              if not p.exists():
+                  print(f'[ERROR] Catalog references missing file: {p}')
+                  errors += 1
+          if errors:
+              sys.exit(1)
+          print('[OK] All catalog references exist')
+          "

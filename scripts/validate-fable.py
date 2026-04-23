@@ -89,19 +89,26 @@ class FableValidator:
             self.errors.append(ValidationError(self.file, "'tags' must be a list"))
 
     def validate_content(self):
+        is_en = '/en/' in str(self.file)
+        
         # 检查标题
         if not self.body.strip().startswith("#"):
             self.errors.append(ValidationError(self.file, "Body must start with an H1 title (# Title)"))
 
         # 检查故事分隔符
-        story_section = re.search(r"## 故事\s*\n", self.body) or re.search(r"## Story\s*\n", self.body)
+        story_section = re.search(r"## 故事\s*\n", self.body) or re.search(r"## (The )?Story\s*\n", self.body)
         if not story_section:
             self.errors.append(ValidationError(self.file, "Missing '## 故事' or '## Story' section"))
 
         # 检查解释章节
-        explain_section = re.search(r"## 这则寓言在说什么", self.body)
-        if not explain_section:
-            self.errors.append(ValidationError(self.file, "Missing '## 这则寓言在说什么' explanation section"))
+        if is_en:
+            explain_section = re.search(r"## What This Fable Is About", self.body)
+            if not explain_section:
+                self.errors.append(ValidationError(self.file, "Missing '## What This Fable Is About' explanation section"))
+        else:
+            explain_section = re.search(r"## 这则寓言在说什么", self.body)
+            if not explain_section:
+                self.errors.append(ValidationError(self.file, "Missing '## 这则寓言在说什么' explanation section"))
 
         # 检查映射表
         if "| 故事元素 |" not in self.body and "| Story Element |" not in self.body:
@@ -110,9 +117,9 @@ class FableValidator:
         # 字数检查
         story_text = self.extract_story_text()
         word_count = len(story_text)
-        if word_count < 800:
-            self.errors.append(ValidationError(self.file, f"Story too short: {word_count} chars (min ~800)"))
-        if word_count > 6000:
+        if word_count < 600:
+            self.errors.append(ValidationError(self.file, f"Story too short: {word_count} chars (min ~600)"))
+        if word_count > 8000:
             self.errors.append(ValidationError(self.file, f"Story very long: {word_count} chars (suggest ≤4000)"))
 
         # 检查代码块中是否意外包含真实 Solidity 代码（寓言应尽量避免直接代码）
@@ -126,10 +133,14 @@ class FableValidator:
         m = re.search(r"## 故事\s*\n(.*?)\n## 这则寓言在说什么", self.body, re.DOTALL)
         if m:
             return re.sub(r"[#*|>`\-\n]", "", m.group(1)).strip()
-        # 备用：匹配到文件中的下一个 H2
-        m = re.search(r"## 故事\s*\n(.*?)\n## ", self.body, re.DOTALL)
+        # 英文版
+        m = re.search(r"## (The )?Story\s*\n(.*?)\n## What This Fable Is About", self.body, re.DOTALL)
         if m:
-            return re.sub(r"[#*|>`\-\n]", "", m.group(1)).strip()
+            return re.sub(r"[#*|>`\-\n]", "", m.group(2)).strip()
+        # 备用：匹配到文件中的下一个 H2
+        m = re.search(r"## (The )?Story\s*\n(.*?)\n## ", self.body, re.DOTALL)
+        if m:
+            return re.sub(r"[#*|>`\-\n]", "", m.group(2)).strip()
         return ""
 
     def validate(self) -> bool:

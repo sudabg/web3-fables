@@ -22,7 +22,7 @@ from typing import Optional
 ROOT = Path(__file__).resolve().parent.parent
 FABLES_DIR = ROOT / "fables"
 REQUIRED_FIELDS = {"title", "title_cn", "concept", "concept_cn", "category", "difficulty", "author", "created", "sources", "tags"}
-VALID_CATEGORIES = {"consensus", "defi", "security", "evm", "cryptography", "governance", "infrastructure", "solana"}
+VALID_CATEGORIES = {"consensus", "defi", "security", "evm", "cryptography", "governance", "infrastructure", "solana", "other"}
 VALID_DIFFICULTIES = {"beginner", "intermediate", "advanced"}
 
 
